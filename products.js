@@ -84,7 +84,8 @@ const PRODUCTS = [
 
     variants: [],
 
-    image: null
+    image:
+      "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/BT_US_AON_PARCEIROS_PDP_85936.jpg?v=1768843495"
   },
 
   {
@@ -125,7 +126,8 @@ const PRODUCTS = [
 
     variants: [],
 
-    image: null
+    image:
+      "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/BT_US_AON_PARCEIROS_PDP_63789.jpg?v=1768845110"
   },
 
   {
@@ -496,7 +498,8 @@ const PRODUCTS = [
 
     variants: [],
 
-    image: null
+    image:
+      "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/BT_PT_C1026_ECOMM_PDP_BOTI_87327.jpg?v=1787047241"
   },
 
   {
@@ -529,7 +532,8 @@ const PRODUCTS = [
       }
     ],
 
-    image: null
+    image:
+      "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/PT_BOTICARIO_C10.25_PAGINADEPRODUTO_Lancamentos-38.jpg?v=1758896869"
   },
 
   {
@@ -549,7 +553,8 @@ const PRODUCTS = [
 
     variants: [],
 
-    image: null
+    image:
+      "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/BT_PT_C1026_ECOMM_PDP_BOTI_87240.jpg?v=1787047893"
   }
 
 ];

@@ -1,0 +1,390 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <title>Produtos O Boticário | Revendedora Independente</title>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+  <link
+    href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Playfair+Display:wght@600;700&display=swap"
+    rel="stylesheet"
+  />
+
+  <link rel="stylesheet" href="styles.css" />
+</head>
+
+<body>
+
+<header class="header">
+
+  <button id="menuButton" class="menu-btn" aria-label="Abrir menu">
+    ☰
+  </button>
+
+  <div class="brand">
+    <strong>Produtos O Boticário</strong>
+    <span data-i18n="reseller">Revendedora Independente</span>
+  </div>
+
+  <nav class="desktop-nav">
+    <button data-page="home" data-i18n="home">Início</button>
+    <button data-page="products" data-i18n="products">Produtos</button>
+    <button data-page="favourites" data-i18n="favourites">Favoritos</button>
+    <button data-page="contact" data-i18n="contact">Contacto</button>
+  </nav>
+
+  <button id="languageButton" class="language-btn">
+    🇵🇹 PT
+  </button>
+
+</header>
+
+
+<aside id="drawer" class="drawer">
+
+  <button id="closeDrawer" class="drawer-close">
+    ×
+  </button>
+
+  <button data-page="home" data-i18n="home">Início</button>
+  <button data-page="products" data-i18n="products">Produtos</button>
+  <button data-page="favourites" data-i18n="favourites">Favoritos</button>
+  <button data-page="contact" data-i18n="contact">Contacto</button>
+
+</aside>
+
+
+<main>
+
+<section id="homePage" class="page active">
+
+  <!-- HERO -->
+  <section class="hero">
+
+    <div class="hero-slides">
+
+      <img
+        id="heroImageA"
+        class="hero-slide active"
+        alt=""
+      />
+
+      <img
+        id="heroImageB"
+        class="hero-slide"
+        alt=""
+      />
+
+    </div>
+
+    <div class="hero-overlay"></div>
+
+    <div class="hero-content">
+
+      <span class="eyebrow">
+        O BOTICÁRIO
+      </span>
+
+      <h1 data-i18n="heroTitle">
+        Encontra os produtos de que gostas.
+      </h1>
+
+      <p data-i18n="heroText">
+        Explora o catálogo, guarda os teus favoritos e pergunta diretamente à revendedora sobre disponibilidade e ofertas atuais.
+      </p>
+
+      <div class="hero-buttons">
+
+        <button
+          class="primary hero-primary"
+          data-page="products"
+          data-i18n="browse"
+        >
+          Ver produtos
+        </button>
+
+        <button
+          class="secondary hero-secondary"
+          data-page="favourites"
+          data-i18n="viewFavourites"
+        >
+          Ver favoritos
+        </button>
+
+      </div>
+
+    </div>
+
+
+    <div class="hero-bottom">
+
+      <div class="hero-product-label">
+
+        <span id="heroRange">
+          Lily
+        </span>
+
+        <strong id="heroProductName">
+          Lily Eau de Parfum
+        </strong>
+
+      </div>
+
+
+      <div
+        id="heroDots"
+        class="hero-dots"
+        aria-label="Hero slides"
+      ></div>
+
+    </div>
+
+  </section>
+
+
+  <!-- CATEGORIES -->
+  <section class="section">
+
+    <div class="section-title">
+
+      <div>
+
+        <span
+          class="eyebrow"
+          data-i18n="categories"
+        >
+          Categorias
+        </span>
+
+        <h2 data-i18n="browseCategory">
+          Explora por categoria
+        </h2>
+
+      </div>
+
+    </div>
+
+    <div
+      id="categoryGrid"
+      class="category-grid"
+    ></div>
+
+  </section>
+
+
+  <!-- PRODUCTS -->
+  <section class="section">
+
+    <div class="section-title">
+
+      <div>
+
+        <span class="eyebrow">
+          CATÁLOGO
+        </span>
+
+        <h2 data-i18n="exploreProducts">
+          Explorar produtos
+        </h2>
+
+      </div>
+
+      <button
+        class="text-btn"
+        data-page="products"
+        data-i18n="viewAll"
+      >
+        Ver todos
+      </button>
+
+    </div>
+
+    <div
+      id="homeProducts"
+      class="product-grid"
+    ></div>
+
+  </section>
+
+</section>
+
+
+<section id="productsPage" class="page">
+
+  <div class="page-heading">
+
+    <span class="eyebrow">
+      O BOTICÁRIO
+    </span>
+
+    <h1 data-i18n="allProducts">
+      Todos os produtos
+    </h1>
+
+    <p data-i18n="productHelp">
+      Pesquisa ou filtra o catálogo para encontrares aquilo que procuras.
+    </p>
+
+  </div>
+
+
+  <div class="catalogue-toolbar">
+
+    <input
+      id="searchInput"
+      type="search"
+      placeholder="Pesquisar produtos..."
+    />
+
+  </div>
+
+
+  <div
+    id="categoryFilters"
+    class="category-filters"
+  ></div>
+
+
+  <div class="result-row">
+    <span id="resultCount"></span>
+  </div>
+
+
+  <div
+    id="productGrid"
+    class="product-grid"
+  ></div>
+
+</section>
+
+
+<section id="productPage" class="page">
+
+  <button
+    id="backProducts"
+    class="back-btn"
+  >
+    ← Produtos
+  </button>
+
+  <div id="productDetail"></div>
+
+</section>
+
+
+<section id="favouritesPage" class="page">
+
+  <div class="page-heading">
+
+    <span
+      class="eyebrow"
+      data-i18n="saved"
+    >
+      Guardados
+    </span>
+
+    <h1 data-i18n="yourFavourites">
+      Os teus favoritos
+    </h1>
+
+    <p data-i18n="favouriteHelp">
+      Guarda vários produtos e pergunta por todos numa única mensagem.
+    </p>
+
+  </div>
+
+
+  <div
+    id="favouriteGrid"
+    class="product-grid"
+  ></div>
+
+
+  <button
+    id="askFavourites"
+    class="primary large hidden"
+    data-i18n="askFavourites"
+  >
+    Perguntar pelos meus favoritos
+  </button>
+
+</section>
+
+
+<section id="contactPage" class="page">
+
+  <div class="contact-card">
+
+    <span class="eyebrow">
+      WHATSAPP
+    </span>
+
+    <h1 data-i18n="askReseller">
+      Fala diretamente com a revendedora
+    </h1>
+
+    <p data-i18n="contactText">
+      Pergunta sobre disponibilidade, produtos, promoções, pagamento ou entrega.
+    </p>
+
+    <button
+      id="generalWhatsapp"
+      class="primary large"
+    >
+      WhatsApp
+    </button>
+
+  </div>
+
+</section>
+
+</main>
+
+
+<footer>
+
+  <p data-i18n="disclaimer">
+    Revendedora independente O Boticário. Este não é o site oficial d'O Boticário.
+  </p>
+
+  <p data-i18n="availability">
+    Confirma sempre a disponibilidade e as ofertas atuais diretamente com a revendedora.
+  </p>
+
+</footer>
+
+
+<nav class="mobile-nav">
+
+  <button data-page="home">
+    <span>⌂</span>
+    <small data-i18n="home">Início</small>
+  </button>
+
+  <button data-page="products">
+    <span>▦</span>
+    <small data-i18n="products">Produtos</small>
+  </button>
+
+  <button data-page="favourites">
+    <span>♡</span>
+    <small data-i18n="favourites">Favoritos</small>
+  </button>
+
+  <button data-page="contact">
+    <span>◉</span>
+    <small data-i18n="contact">Contacto</small>
+  </button>
+
+</nav>
+
+
+<script src="products.js"></script>
+<script src="script.js"></script>
+
+</body>
+</html>

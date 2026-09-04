@@ -1887,6 +1887,15 @@ document.addEventListener(
     ).onclick =
       openDrawer;
 
+      
+    document.getElementById(
+      "brandHome"
+    ).onclick =
+      () => {
+
+        showPage("home");
+
+      };
 
     document.getElementById(
       "closeDrawer"

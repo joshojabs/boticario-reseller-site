@@ -1,9 +1,4 @@
 const PRODUCTS = [
-
-  // =====================================================
-  // HER CODE
-  // =====================================================
-
   {
     id: "kit-her-code",
     name: "Kit Her Code",
@@ -15,10 +10,8 @@ const PRODUCTS = [
     size: "50 ml + 250 g",
     code: "1003969",
     variants: [],
-    image:
-      "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/1003969.jpg?v=1787048196"
+    image: "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/1003969.jpg?v=1787048196"
   },
-
   {
     id: "kit-her-code-touch",
     name: "Kit Her Code Touch",
@@ -30,10 +23,8 @@ const PRODUCTS = [
     size: "50 ml + 150 ml",
     code: "1003970",
     variants: [],
-    image:
-      "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/1003975.jpg?v=1787048550"
+    image: "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/1003975.jpg?v=1787048550"
   },
-
   {
     id: "kit-her-code-climax",
     name: "Kit Her Code Clímax",
@@ -45,10 +36,8 @@ const PRODUCTS = [
     size: "50 ml + 200 ml",
     code: "1003971",
     variants: [],
-    image:
-      "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/1003974.jpg?v=1787048743"
+    image: "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/1003974.jpg?v=1787048743"
   },
-
   {
     id: "her-code-touch-oil",
     name: "Her Code Touch Óleo de Massagem Corporal",
@@ -60,10 +49,8 @@ const PRODUCTS = [
     size: "150 ml",
     code: "85936",
     variants: [],
-    image:
-      "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/BT_US_AON_PARCEIROS_PDP_85936.jpg?v=1768843495"
+    image: "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/BT_US_AON_PARCEIROS_PDP_85936.jpg?v=1768843495"
   },
-
   {
     id: "her-code-cream",
     name: "Her Code Creme Aveludado Hidratante Corporal",
@@ -75,10 +62,8 @@ const PRODUCTS = [
     size: "250 g",
     code: "63737",
     variants: [],
-    image:
-      "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/BT_06_25_85935_HER_CODE_CREME_AVELUDADO_HIDRATANTE_DESOD_CORPORAL_250g_planta.jpg?v=1768844556"
+    image: "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/BT_06_25_85935_HER_CODE_CREME_AVELUDADO_HIDRATANTE_DESOD_CORPORAL_250g_planta.jpg?v=1768844556"
   },
-
   {
     id: "her-code-climax-lotion",
     name: "Her Code Clímax Loção Hidratante Corporal",
@@ -90,10 +75,8 @@ const PRODUCTS = [
     size: "200 ml",
     code: "63789",
     variants: [],
-    image:
-      "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/BT_US_AON_PARCEIROS_PDP_63789.jpg?v=1768845110"
+    image: "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/BT_US_AON_PARCEIROS_PDP_63789.jpg?v=1768845110"
   },
-
   {
     id: "her-code-touch",
     name: "Her Code Touch Eau de Parfum",
@@ -105,10 +88,8 @@ const PRODUCTS = [
     size: "50 ml",
     code: "63405",
     variants: [],
-    image:
-      "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/her_code_touch.png?v=1764633821"
+    image: "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/her_code_touch.png?v=1764633821"
   },
-
   {
     id: "her-code",
     name: "Her Code Eau de Parfum",
@@ -120,10 +101,8 @@ const PRODUCTS = [
     size: "50 ml",
     code: "50022",
     variants: [],
-    image:
-      "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/her_code.png?v=1764634560"
+    image: "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/her_code.png?v=1764634560"
   },
-
   {
     id: "her-code-climax",
     name: "Her Code Clímax Eau de Parfum",
@@ -135,14 +114,8 @@ const PRODUCTS = [
     size: "50 ml",
     code: "63517",
     variants: [],
-    image:
-      "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/her-code-climax.jpg?v=1768845916"
+    image: "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/her-code-climax.jpg?v=1768845916"
   },
-
-  // =====================================================
-  // LILY
-  // =====================================================
-
   {
     id: "lily-eau-de-parfum",
     name: "Lily Eau de Parfum",
@@ -154,10 +127,8 @@ const PRODUCTS = [
     size: "75 ml",
     code: "77524",
     variants: [],
-    image:
-      "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/Perfumaria_Lily_ImagensProduto_LilyRegularEDP.jpg?v=1764634433"
+    image: "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/Perfumaria_Lily_ImagensProduto_LilyRegularEDP.jpg?v=1764634433"
   },
-
   {
     id: "lily-absolu-eau-de-parfum",
     name: "Lily Absolu Eau de Parfum",
@@ -169,10 +140,8 @@ const PRODUCTS = [
     size: "75 ml",
     code: "77988",
     variants: [],
-    image:
-      "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/Perfumaria_Lily_ImagensProduto_Absolu.jpg?v=1764633697"
+    image: "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/Perfumaria_Lily_ImagensProduto_Absolu.jpg?v=1764633697"
   },
-
   {
     id: "lily-le-parfum",
     name: "Lily Le Parfum",
@@ -184,10 +153,8 @@ const PRODUCTS = [
     size: "30 ml",
     code: "48734",
     variants: [],
-    image:
-      "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/Lily_Le_Parfum-01.jpg?v=1764633720"
+    image: "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/Lily_Le_Parfum-01.jpg?v=1764633720"
   },
-
   {
     id: "lily-cashmere-creme",
     name: "Lily Cashmere Creme Acetinado Hidratante Corporal",
@@ -199,10 +166,8 @@ const PRODUCTS = [
     size: "250 g",
     code: "60173",
     variants: [],
-    image:
-      "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/BT_PT_C1026_ECOMM_PDP_BOTI_60173.jpg?v=1787046789"
+    image: "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/BT_PT_C1026_ECOMM_PDP_BOTI_60173.jpg?v=1787046789"
   },
-
   {
     id: "lily-cream",
     name: "Lily Creme Acetinado Hidratante Corporal",
@@ -214,10 +179,8 @@ const PRODUCTS = [
     size: "250 g",
     code: "63794",
     variants: [],
-    image:
-      "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/Perfumaria_Lily_ImagensProduto_LilyRegular.jpg?v=1764634190"
+    image: "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/Perfumaria_Lily_ImagensProduto_LilyRegular.jpg?v=1764634190"
   },
-
   {
     id: "lily-lumiere-cream",
     name: "Lily Lumière Creme Acetinado Hidratante Corporal",
@@ -229,10 +192,8 @@ const PRODUCTS = [
     size: "250 g",
     code: "63795",
     variants: [],
-    image:
-      "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/Perfumaria_Lily_ImagensProduto_LilyLumiereAcetinado.jpg?v=1742896002"
+    image: "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/Perfumaria_Lily_ImagensProduto_LilyLumiereAcetinado.jpg?v=1742896002"
   },
-
   {
     id: "lily-absolu-cream",
     name: "Lily Absolu Creme Acetinado Hidratante Corporal",
@@ -244,10 +205,8 @@ const PRODUCTS = [
     size: "250 g",
     code: "63791",
     variants: [],
-    image:
-      "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/Perfumaria_Lily_ImagensProduto_AbsoluCreme.jpg?v=1764633697"
+    image: "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/Perfumaria_Lily_ImagensProduto_AbsoluCreme.jpg?v=1764633697"
   },
-
   {
     id: "love-lily-cream",
     name: "Love Lily Creme Acetinado Hidratante Corporal",
@@ -259,10 +218,8 @@ const PRODUCTS = [
     size: "250 g",
     code: "64018",
     variants: [],
-    image:
-      "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/Perfumaria_Lily_ImagensProduto_LoveLilyAcetinado.jpg?v=1764634535"
+    image: "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/Perfumaria_Lily_ImagensProduto_LoveLilyAcetinado.jpg?v=1764634535"
   },
-
   {
     id: "lily-shampoo-acetinado",
     name: "Lily Shampoo Acetinado",
@@ -274,10 +231,8 @@ const PRODUCTS = [
     size: "250 ml",
     code: "87920",
     variants: [],
-    image:
-      "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/shampoo-acetinado-lily-boticario-1.jpg?v=1764633770"
+    image: "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/shampoo-acetinado-lily-boticario-1.jpg?v=1764633770"
   },
-
   {
     id: "lily-creme-banho-acetinado",
     name: "Lily Creme de Banho Acetinado",
@@ -289,14 +244,8 @@ const PRODUCTS = [
     size: "250 ml",
     code: "54896",
     variants: [],
-    image:
-      "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/creme-banho-acetinado-lily-boticario-1.jpg?v=1764633746"
+    image: "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/creme-banho-acetinado-lily-boticario-1.jpg?v=1764633746"
   },
-
-  // =====================================================
-  // ELYSÉE
-  // =====================================================
-
   {
     id: "elysee-blanc",
     name: "Elysée Blanc Eau de Parfum",
@@ -308,10 +257,8 @@ const PRODUCTS = [
     size: "50 ml",
     code: "60676",
     variants: [],
-    image:
-      "https://cdn.shopify.com/s/files/1/0630/3029/6801/products/5287.jpg?v=1764181103"
+    image: "https://cdn.shopify.com/s/files/1/0630/3029/6801/products/5287.jpg?v=1764181103"
   },
-
   {
     id: "elysee-nuit",
     name: "Elysée Nuit Eau de Parfum",
@@ -323,10 +270,8 @@ const PRODUCTS = [
     size: "50 ml",
     code: "60280",
     variants: [],
-    image:
-      "https://cdn.shopify.com/s/files/1/0630/3029/6801/products/elysee_nuit_1.png?v=1764633710"
+    image: "https://cdn.shopify.com/s/files/1/0630/3029/6801/products/elysee_nuit_1.png?v=1764633710"
   },
-
   {
     id: "elysee",
     name: "Elysée Eau de Parfum",
@@ -338,14 +283,8 @@ const PRODUCTS = [
     size: "50 ml",
     code: "62610",
     variants: [],
-    image:
-      "https://cdn.shopify.com/s/files/1/0630/3029/6801/products/2873_1.jpg?v=1764633648"
+    image: "https://cdn.shopify.com/s/files/1/0630/3029/6801/products/2873_1.jpg?v=1764633648"
   },
-
-  // =====================================================
-  // PRIVÉE
-  // =====================================================
-
   {
     id: "privee-belladonna",
     name: "Privée Narcotic Flowers Belladonna Eau de Parfum",
@@ -357,10 +296,8 @@ const PRODUCTS = [
     size: "75 ml",
     code: "87237",
     variants: [],
-    image:
-      "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/BT_PT_C1026_ECOMM_PDP_BOTI_87327.jpg?v=1787047241"
+    image: "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/BT_PT_C1026_ECOMM_PDP_BOTI_87327.jpg?v=1787047241"
   },
-
   {
     id: "privee-discovery-kit",
     name: "Kit Privée Discovery",
@@ -372,23 +309,12 @@ const PRODUCTS = [
     size: "3 × 5 ml",
     code: "56553",
     variants: [
-      {
-        name: "Fresh Season",
-        code: null
-      },
-      {
-        name: "Pleasure Shot",
-        code: null
-      },
-      {
-        name: "Lovely Portrait",
-        code: null
-      }
+      { name: "Fresh Season", code: null },
+      { name: "Pleasure Shot", code: null },
+      { name: "Lovely Portrait", code: null }
     ],
-    image:
-      "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/PT_BOTICARIO_C10.25_PAGINADEPRODUTO_Lancamentos-38.jpg?v=1758896869"
+    image: "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/PT_BOTICARIO_C10.25_PAGINADEPRODUTO_Lancamentos-38.jpg?v=1758896869"
   },
-
   {
     id: "privee-tobacco",
     name: "Privée Narcotic Flowers Tobacco Eau de Parfum",
@@ -400,15 +326,8 @@ const PRODUCTS = [
     size: "75 ml",
     code: "87240",
     variants: [],
-    image:
-      "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/BT_PT_C1026_ECOMM_PDP_BOTI_87240.jpg?v=1787047893"
+    image: "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/BT_PT_C1026_ECOMM_PDP_BOTI_87240.jpg?v=1787047893"
   },
-
-  // =====================================================
-  // BATCH 2 — CELEBRE / GLAMOUR / BOTICOLLECTION /
-  // BOTICA 214 / FLORATTA / LIZ / COFFEE
-  // =====================================================
-
   {
     id: "celebre-sua-forca-feminino",
     name: "Celebre Sua Força Feminino Eau de Toilette",
@@ -420,10 +339,8 @@ const PRODUCTS = [
     size: "100 ml",
     code: "62826",
     variants: [],
-    image:
-      "https://cdn.shopify.com/s/files/1/0630/3029/6801/products/celebre-eau-toilette-feminino-boticario.png?v=1660669878"
+    image: "https://cdn.shopify.com/s/files/1/0630/3029/6801/products/celebre-eau-toilette-feminino-boticario.png?v=1660669878"
   },
-
   {
     id: "glamour-edt",
     name: "Glamour Eau de Toilette",
@@ -435,10 +352,8 @@ const PRODUCTS = [
     size: "75 ml",
     code: "61827",
     variants: [],
-    image:
-      "https://cdn.shopify.com/s/files/1/0630/3029/6801/products/glamour-edt-75ml.png?v=1764633706"
+    image: "https://cdn.shopify.com/s/files/1/0630/3029/6801/products/glamour-edt-75ml.png?v=1764633706"
   },
-
   {
     id: "glamour-diva",
     name: "Glamour Diva Eau de Toilette",
@@ -450,10 +365,8 @@ const PRODUCTS = [
     size: "75 ml",
     code: "62845",
     variants: [],
-    image:
-      "https://cdn.shopify.com/s/files/1/0630/3029/6801/products/glamour-diva-edt-75ml-boticario.png?v=1764181144"
+    image: "https://cdn.shopify.com/s/files/1/0630/3029/6801/products/glamour-diva-edt-75ml-boticario.png?v=1764181144"
   },
-
   {
     id: "glamour-secrets-black-intense",
     name: "Glamour Secrets Black Intense Eau de Toilette",
@@ -465,10 +378,8 @@ const PRODUCTS = [
     size: "75 ml",
     code: "63314",
     variants: [],
-    image:
-      "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/PT_BOTICARIO_C10.25_PAGINADEPRODUTO_Lancamentos-16.jpg?v=1764633865"
+    image: "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/PT_BOTICARIO_C10.25_PAGINADEPRODUTO_Lancamentos-16.jpg?v=1764633865"
   },
-
   {
     id: "glamour-secrets-black",
     name: "Glamour Secrets Black Eau de Toilette",
@@ -480,10 +391,8 @@ const PRODUCTS = [
     size: "75 ml",
     code: "62841",
     variants: [],
-    image:
-      "https://cdn.shopify.com/s/files/1/0630/3029/6801/products/Glamour-Secrets-Black-Eau-de-Toilette-75ml-703-Boticario.png?v=1764633706"
+    image: "https://cdn.shopify.com/s/files/1/0630/3029/6801/products/Glamour-Secrets-Black-Eau-de-Toilette-75ml-703-Boticario.png?v=1764633706"
   },
-
   {
     id: "thaty-edt",
     name: "Thaty Eau de Toilette",
@@ -495,10 +404,8 @@ const PRODUCTS = [
     size: "100 ml",
     code: "63055",
     variants: [],
-    image:
-      "https://cdn.shopify.com/s/files/1/0630/3029/6801/products/2216.jpg?v=1652878215"
+    image: "https://cdn.shopify.com/s/files/1/0630/3029/6801/products/2216.jpg?v=1652878215"
   },
-
   {
     id: "anni-edt",
     name: "Anni Eau de Toilette",
@@ -510,10 +417,8 @@ const PRODUCTS = [
     size: "100 ml",
     code: "60315",
     variants: [],
-    image:
-      "https://cdn.shopify.com/s/files/1/0630/3029/6801/products/Anni_Des_Colonia_Boticollection_100ml71876_frontal.webp?v=1657190802"
+    image: "https://cdn.shopify.com/s/files/1/0630/3029/6801/products/Anni_Des_Colonia_Boticollection_100ml71876_frontal.webp?v=1657190802"
   },
-
   {
     id: "botica-214-fiji-paradise",
     name: "Botica 214 Fiji Paradise Eau de Parfum",
@@ -525,10 +430,8 @@ const PRODUCTS = [
     size: "75 ml",
     code: "63845",
     variants: [],
-    image:
-      "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/63845.jpg?v=1780392245"
+    image: "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/63845.jpg?v=1780392245"
   },
-
   {
     id: "botica-214-african-sunrise",
     name: "Botica 214 African Sunrise Eau de Parfum",
@@ -540,10 +443,8 @@ const PRODUCTS = [
     size: "75 ml",
     code: "63384",
     variants: [],
-    image:
-      "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/55082_1.jpg?v=1764636003"
+    image: "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/55082_1.jpg?v=1764636003"
   },
-
   {
     id: "botica-214-verano-en-firenze",
     name: "Botica 214 Verano en Firenze Eau de Parfum",
@@ -555,10 +456,8 @@ const PRODUCTS = [
     size: "75 ml",
     code: "63848",
     variants: [],
-    image:
-      "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/63848.jpg?v=1780390567"
+    image: "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/63848.jpg?v=1780390567"
   },
-
   {
     id: "botica-214-sevilla-dorada",
     name: "Botica 214 Sevilla Dorada Eau de Parfum",
@@ -570,10 +469,8 @@ const PRODUCTS = [
     size: "75 ml",
     code: "63510",
     variants: [],
-    image:
-      "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/63510.jpg?v=1780389434"
+    image: "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/63510.jpg?v=1780389434"
   },
-
   {
     id: "floratta-red-passion",
     name: "Floratta Red Passion Eau de Parfum",
@@ -585,10 +482,8 @@ const PRODUCTS = [
     size: "75 ml",
     code: "87896",
     variants: [],
-    image:
-      "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/BOT_59306_FLORATTA_RED-PASSION_EAU-DE-PARFUM_FRONTAL_01.jpg?v=1764635000"
+    image: "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/BOT_59306_FLORATTA_RED-PASSION_EAU-DE-PARFUM_FRONTAL_01.jpg?v=1764635000"
   },
-
   {
     id: "floratta-red",
     name: "Floratta Red Eau de Toilette",
@@ -600,10 +495,8 @@ const PRODUCTS = [
     size: "75 ml",
     code: "63330",
     variants: [],
-    image:
-      "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/63330_01.jpg?v=1773745347"
+    image: "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/63330_01.jpg?v=1773745347"
   },
-
   {
     id: "floratta-fleur-declipse",
     name: "Floratta Fleur D’Éclipse Eau de Parfum",
@@ -615,10 +508,8 @@ const PRODUCTS = [
     size: "75 ml",
     code: "52507",
     variants: [],
-    image:
-      "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/52507_011.jpg?v=1773746624"
+    image: "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/52507_011.jpg?v=1773746624"
   },
-
   {
     id: "floratta-romance-de-verao",
     name: "Floratta Romance de Verão Eau de Toilette",
@@ -630,10 +521,8 @@ const PRODUCTS = [
     size: "75 ml",
     code: "63230",
     variants: [],
-    image:
-      "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/63326_02.jpg?v=1773744517"
+    image: "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/63326_02.jpg?v=1773744517"
   },
-
   {
     id: "floratta-flores-secretas",
     name: "Floratta Flores Secretas Eau de Toilette",
@@ -645,10 +534,8 @@ const PRODUCTS = [
     size: "75 ml",
     code: "63329",
     variants: [],
-    image:
-      "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/63329_01_ca08beb6-44c4-43e3-a670-c2f2afd0f4b9.jpg?v=1773746398"
+    image: "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/63329_01_ca08beb6-44c4-43e3-a670-c2f2afd0f4b9.jpg?v=1773746398"
   },
-
   {
     id: "floratta-love-flower",
     name: "Floratta Love Flower Eau de Toilette",
@@ -660,10 +547,8 @@ const PRODUCTS = [
     size: "75 ml",
     code: "62560",
     variants: [],
-    image:
-      "https://cdn.shopify.com/s/files/1/0630/3029/6801/products/6459.jpg?v=1764633698"
+    image: "https://cdn.shopify.com/s/files/1/0630/3029/6801/products/6459.jpg?v=1764633698"
   },
-
   {
     id: "floratta-rose",
     name: "Floratta Rose Eau de Toilette",
@@ -675,10 +560,8 @@ const PRODUCTS = [
     size: "75 ml",
     code: "63328",
     variants: [],
-    image:
-      "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/63328_01.jpg?v=1773746473"
+    image: "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/63328_01.jpg?v=1773746473"
   },
-
   {
     id: "floratta-rose-bouquet",
     name: "Floratta Rose Bouquet Eau de Toilette",
@@ -690,10 +573,8 @@ const PRODUCTS = [
     size: "75 ml",
     code: "63316",
     variants: [],
-    image:
-      "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/63316_02.jpg?v=1773744918"
+    image: "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/63316_02.jpg?v=1773744918"
   },
-
   {
     id: "liz-flora",
     name: "Liz Flora Eau de Toilette",
@@ -705,10 +586,8 @@ const PRODUCTS = [
     size: "100 ml",
     code: "63277",
     variants: [],
-    image:
-      "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/63277_1.jpg?v=1764633862"
+    image: "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/63277_1.jpg?v=1764633862"
   },
-
   {
     id: "liz-intenso",
     name: "Liz Intenso Eau de Toilette",
@@ -720,10 +599,8 @@ const PRODUCTS = [
     size: "100 ml",
     code: "63078",
     variants: [],
-    image:
-      "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/63078.jpg?v=1764633799"
+    image: "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/63078.jpg?v=1764633799"
   },
-
   {
     id: "liz-sublime",
     name: "Liz Sublime Eau de Toilette",
@@ -735,10 +612,8 @@ const PRODUCTS = [
     size: "100 ml",
     code: "60052",
     variants: [],
-    image:
-      "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/liz-sublime-boticario.png?v=1684854330"
+    image: "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/liz-sublime-boticario.png?v=1684854330"
   },
-
   {
     id: "liz-edt",
     name: "Liz Eau de Toilette",
@@ -750,10 +625,8 @@ const PRODUCTS = [
     size: "100 ml",
     code: "62497",
     variants: [],
-    image:
-      "https://cdn.shopify.com/s/files/1/0630/3029/6801/products/6383.jpg?v=1764633695"
+    image: "https://cdn.shopify.com/s/files/1/0630/3029/6801/products/6383.jpg?v=1764633695"
   },
-
   {
     id: "coffee-woman-unique",
     name: "Coffee Woman Unique Eau de Toilette",
@@ -765,10 +638,8 @@ const PRODUCTS = [
     size: "100 ml",
     code: "63538",
     variants: [],
-    image:
-      "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/BT_PT_C0626_ECOMM_PDP_63538_01.png?v=1777983975"
+    image: "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/BT_PT_C0626_ECOMM_PDP_63538_01.png?v=1777983975"
   },
-
   {
     id: "coffee-woman-addictive",
     name: "Coffee Woman Addictive Eau de Toilette",
@@ -780,8 +651,3246 @@ const PRODUCTS = [
     size: "100 ml",
     code: "60261",
     variants: [],
-    image:
-      "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/BT_PT_C0626_ECOMM_PDP_60261_01.png?v=1777991003"
+    image: "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/BT_PT_C0626_ECOMM_PDP_60261_01.png?v=1777991003"
   }
-
 ];
+const _botiProduct = (
+  id,
+  name,
+  nameEN,
+  category,
+  range,
+  type,
+  typeEN,
+  size,
+  code,
+  image = null,
+  variants = []
+) => ({
+  id,
+  name,
+  nameEN,
+  category,
+  range,
+  type,
+  typeEN,
+  size,
+  code,
+  variants,
+  image
+});
+const applyImageFixes = (fixes, overwrite = false) => PRODUCTS.forEach((product) => {
+  if (fixes[product.id] && (overwrite || !product.image)) product.image = fixes[product.id];
+});
+PRODUCTS.push(
+  _botiProduct(
+    "coffee-woman-duo",
+    "Coffee Woman Duo Eau de Toilette",
+    "Coffee Woman Duo Eau de Toilette",
+    "perfumery",
+    "Coffee",
+    "Eau de Toilette",
+    "Eau de Toilette",
+    "100 ml",
+    "60231",
+    "https://cdn.shopify.com/s/files/1/0630/3029/6801/products/BT-US_Coffee-Woman-Duo-2.jpg?v=1764634717"
+  ),
+  _botiProduct(
+    "coffee-woman-seduction",
+    "Coffee Woman Seduction Eau de Toilette",
+    "Coffee Woman Seduction Eau de Toilette",
+    "perfumery",
+    "Coffee",
+    "Eau de Toilette",
+    "Eau de Toilette",
+    "100 ml",
+    "62890",
+    "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/PerfumariaCoffee_WomanSeduction_2_1.jpg?v=1764633655"
+  ),
+  _botiProduct(
+    "coffee-woman",
+    "Coffee Woman Eau de Toilette",
+    "Coffee Woman Eau de Toilette",
+    "perfumery",
+    "Coffee",
+    "Eau de Toilette",
+    "Eau de Toilette",
+    "100 ml",
+    "62892",
+    "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/PerfumariaCoffee_Woman.jpg?v=1764633652"
+  ),
+  _botiProduct(
+    "egeo-choc",
+    "Egeo Choc Eau de Toilette",
+    "Egeo Choc Eau de Toilette",
+    "perfumery",
+    "Egeo",
+    "Eau de Toilette",
+    "Eau de Toilette",
+    "90 ml",
+    "60142",
+    "https://cdn.shopify.com/s/files/1/0630/3029/6801/products/egeo_choc_1.png?v=1764633678"
+  ),
+  _botiProduct(
+    "egeo-choc-high",
+    "Egeo Choc High Eau de Toilette",
+    "Egeo Choc High Eau de Toilette",
+    "perfumery",
+    "Egeo",
+    "Eau de Toilette",
+    "Eau de Toilette",
+    "90 ml",
+    "63413",
+    "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/55106_EGEOEDTCHOCHIGHEXP90ml-3.jpg?v=1764635961"
+  ),
+  _botiProduct(
+    "egeo-dolce",
+    "Egeo Dolce Eau de Toilette",
+    "Egeo Dolce Eau de Toilette",
+    "perfumery",
+    "Egeo",
+    "Eau de Toilette",
+    "Eau de Toilette",
+    "90 ml",
+    "60138",
+    "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/egeo-dolce_3.jpg?v=1764634458"
+  ),
+  _botiProduct(
+    "egeo-choc-high-souffle",
+    "Egeo Choc High Suflê Hidratante Corporal",
+    "Egeo Choc High Moisturising Body Soufflé",
+    "body",
+    "Egeo",
+    "Suflê Hidratante Corporal",
+    "Moisturising Body Soufflé",
+    "250 g",
+    "63477",
+    "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/55170_EGEOSUFLEHIDCPOCHOCHIGHEXP250g.jpg?v=1752568047"
+  ),
+  _botiProduct(
+    "egeo-dolce-illusion-cream",
+    "Egeo Dolce Illusion Creme Hidratante Corporal",
+    "Egeo Dolce Illusion Moisturising Body Cream",
+    "body",
+    "Egeo",
+    "Creme Hidratante Corporal",
+    "Body Moisturiser",
+    "250 g",
+    "63819",
+    "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/BT_PT_C0926_ECOMM_PDP_BOTI_63819_01.jpg?v=1784634814"
+  ),
+  _botiProduct(
+    "egeo-dolce-illusion",
+    "Egeo Dolce Illusion Eau de Toilette",
+    "Egeo Dolce Illusion Eau de Toilette",
+    "perfumery",
+    "Egeo",
+    "Eau de Toilette",
+    "Eau de Toilette",
+    "90 ml",
+    "63802",
+    "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/BT_PT_C0926_ECOMM_PDP_BOTI_63802_01.jpg?v=1784634610"
+  ),
+  _botiProduct(
+    "egeo-bomb-black",
+    "Egeo Bomb Black Eau de Toilette",
+    "Egeo Bomb Black Eau de Toilette",
+    "perfumery",
+    "Egeo",
+    "Eau de Toilette",
+    "Eau de Toilette",
+    "90 ml",
+    "64191",
+    "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/BT_15_24_Pack_Natal_Estojo_Egeo_Bomb_Black_Frontal_58465_VD.jpg?v=1764633662"
+  ),
+  _botiProduct(
+    "egeo-blue",
+    "Egeo Blue Eau de Toilette",
+    "Egeo Blue Eau de Toilette",
+    "perfumery",
+    "Egeo",
+    "Eau de Toilette",
+    "Eau de Toilette",
+    "90 ml",
+    "60136",
+    "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/egeo-blue_3_1.jpg?v=1764633678"
+  ),
+  _botiProduct(
+    "egeo-cogu-mellow",
+    "Egeo Cogu Mellow Eau de Toilette",
+    "Egeo Cogu Mellow Eau de Toilette",
+    "perfumery",
+    "Egeo",
+    "Eau de Toilette",
+    "Eau de Toilette",
+    "90 ml",
+    "63835",
+    "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/63835_01.jpg?v=1773743718"
+  ),
+  _botiProduct(
+    "egeo-cogu",
+    "Egeo Cogu Eau de Toilette",
+    "Egeo Cogu Eau de Toilette",
+    "perfumery",
+    "Egeo",
+    "Eau de Toilette",
+    "Eau de Toilette",
+    "90 ml",
+    "63545",
+    "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/63545_01.jpg?v=1773744354"
+  ),
+  _botiProduct(
+    "egeo-banana",
+    "Egeo Banana Eau de Toilette",
+    "Egeo Banana Eau de Toilette",
+    "perfumery",
+    "Egeo",
+    "Eau de Toilette",
+    "Eau de Toilette",
+    "90 ml",
+    "63415",
+    "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/55108_EGEOEDTBNN90ml.jpg?v=1764633848"
+  ),
+  _botiProduct(
+    "egeo-vanilla-vibe",
+    "Egeo Vanilla Vibe Eau de Toilette",
+    "Egeo Vanilla Vibe Eau de Toilette",
+    "perfumery",
+    "Egeo",
+    "Eau de Toilette",
+    "Eau de Toilette",
+    "90 ml",
+    "60139",
+    "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/egeovanillavibe.jpg?v=1764633702"
+  ),
+  _botiProduct(
+    "malbec-edt",
+    "Malbec Eau de Toilette",
+    "Malbec Eau de Toilette",
+    "perfumery",
+    "Malbec",
+    "Eau de Toilette",
+    "Eau de Toilette",
+    "100 ml",
+    "63161",
+    "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/63161.jpg?v=1764633644"
+  ),
+  _botiProduct(
+    "malbec-lotion-63547",
+    "Malbec Loção Hidratante Corporal",
+    "Malbec Body Lotion",
+    "body",
+    "Malbec",
+    "Loção Hidratante Corporal",
+    "Body Lotion",
+    "200 ml",
+    "63547"
+  ),
+  _botiProduct(
+    "malbec-gold",
+    "Malbec Gold Eau de Toilette",
+    "Malbec Gold Eau de Toilette",
+    "perfumery",
+    "Malbec",
+    "Eau de Toilette",
+    "Eau de Toilette",
+    "100 ml",
+    "64009",
+    "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/malbec-gold_1.jpg?v=1764633663"
+  ),
+  _botiProduct(
+    "malbec-magnetic",
+    "Malbec Magnetic Eau de Toilette",
+    "Malbec Magnetic Eau de Toilette",
+    "perfumery",
+    "Malbec",
+    "Eau de Toilette",
+    "Eau de Toilette",
+    "100 ml",
+    "60011",
+    "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/60011.jpg?v=1764633672"
+  ),
+  _botiProduct(
+    "malbec-x",
+    "Malbec X Eau de Toilette",
+    "Malbec X Eau de Toilette",
+    "perfumery",
+    "Malbec",
+    "Eau de Toilette",
+    "Eau de Toilette",
+    "100 ml",
+    "64072"
+  ),
+  _botiProduct(
+    "malbec-flame",
+    "Malbec Flame Eau de Toilette",
+    "Malbec Flame Eau de Toilette",
+    "perfumery",
+    "Malbec",
+    "Eau de Toilette",
+    "Eau de Toilette",
+    "100 ml",
+    "60018",
+    "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/malbec-flame_2.jpg?v=1764633702"
+  ),
+  _botiProduct(
+    "the-blend",
+    "The Blend Eau de Parfum",
+    "The Blend Eau de Parfum",
+    "perfumery",
+    "The Blend",
+    "Eau de Parfum",
+    "Eau de Parfum",
+    "100 ml",
+    "47949",
+    "https://cdn.shopify.com/s/files/1/0630/3029/6801/products/3852_1.jpg?v=1764118772"
+  ),
+  _botiProduct(
+    "the-blend-bourbon",
+    "The Blend Bourbon Eau de Parfum",
+    "The Blend Bourbon Eau de Parfum",
+    "perfumery",
+    "The Blend",
+    "Eau de Parfum",
+    "Eau de Parfum",
+    "100 ml",
+    "89816",
+    "https://cdn.shopify.com/s/files/1/0630/3029/6801/products/6204.jpg?v=1652879775"
+  ),
+  _botiProduct(
+    "the-blend-cardamom",
+    "The Blend Cardamom Eau de Parfum",
+    "The Blend Cardamom Eau de Parfum",
+    "perfumery",
+    "The Blend",
+    "Eau de Parfum",
+    "Eau de Parfum",
+    "100 ml",
+    "83529",
+    "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/THEBLENDCARDAMON-01.png?v=1764633873"
+  ),
+  _botiProduct(
+    "botica-214-verano-firenze-masculino",
+    "Botica 214 Verano en Firenze Eau de Parfum Masculino",
+    "Botica 214 Verano en Firenze Men's Eau de Parfum",
+    "perfumery",
+    "Botica 214",
+    "Eau de Parfum",
+    "Eau de Parfum",
+    "90 ml",
+    "63847",
+    "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/63847.jpg?v=1780392023"
+  ),
+  _botiProduct(
+    "botica-214-fiji-paradise-masculino",
+    "Botica 214 Fiji Paradise Eau de Parfum Masculino",
+    "Botica 214 Fiji Paradise Men's Eau de Parfum",
+    "perfumery",
+    "Botica 214",
+    "Eau de Parfum",
+    "Eau de Parfum",
+    "90 ml",
+    "63846",
+    "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/63846_1.jpg?v=1780392070"
+  ),
+  _botiProduct(
+    "botica-214-african-sunrise-masculino",
+    "Botica 214 African Sunrise Eau de Parfum Masculino",
+    "Botica 214 African Sunrise Men's Eau de Parfum",
+    "perfumery",
+    "Botica 214",
+    "Eau de Parfum",
+    "Eau de Parfum",
+    "90 ml",
+    "63385",
+    "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/55083_1.jpg?v=1764633847"
+  ),
+  _botiProduct(
+    "botica-214-sevilla-dorada-masculino",
+    "Botica 214 Sevilla Dorada Eau de Parfum Masculino",
+    "Botica 214 Sevilla Dorada Men's Eau de Parfum",
+    "perfumery",
+    "Botica 214",
+    "Eau de Parfum",
+    "Eau de Parfum",
+    "90 ml",
+    "63509",
+    "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/63509.jpg?v=1780389075"
+  ),
+  _botiProduct(
+    "botica-214-sevilla-dorada-lotion",
+    "Botica 214 Sevilla Dorada Loção Hidratante Corporal",
+    "Botica 214 Sevilla Dorada Body Lotion",
+    "body",
+    "Botica 214",
+    "Loção Hidratante Corporal",
+    "Body Lotion",
+    "200 ml",
+    "63534",
+    "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/63534_2.jpg?v=1780388395"
+  ),
+  _botiProduct(
+    "zaad-edp",
+    "Zaad Eau de Parfum",
+    "Zaad Eau de Parfum",
+    "perfumery",
+    "Zaad",
+    "Eau de Parfum",
+    "Eau de Parfum",
+    "95 ml",
+    "90310"
+  ),
+  _botiProduct(
+    "zaad-lotion",
+    "Zaad Loção Hidratante Corporal",
+    "Zaad Body Lotion",
+    "body",
+    "Zaad",
+    "Loção Hidratante Corporal",
+    "Body Lotion",
+    "200 ml",
+    "63736"
+  ),
+  _botiProduct(
+    "zaad-mondo",
+    "Zaad Mondo Eau de Parfum",
+    "Zaad Mondo Eau de Parfum",
+    "perfumery",
+    "Zaad",
+    "Eau de Parfum",
+    "Eau de Parfum",
+    "95 ml",
+    "63431"
+  ),
+  _botiProduct(
+    "zaad-venture",
+    "Zaad Venture Eau de Parfum",
+    "Zaad Venture Eau de Parfum",
+    "perfumery",
+    "Zaad",
+    "Eau de Parfum",
+    "Eau de Parfum",
+    "95 ml",
+    "54457"
+  ),
+  _botiProduct(
+    "quasar-blue-roll-on",
+    "Quasar Blue Antitranspirante Desodorante Roll-On",
+    "Quasar Blue Antiperspirant Deodorant Roll-On",
+    "male",
+    "Quasar",
+    "Antitranspirante Roll-On",
+    "Antiperspirant Roll-On",
+    "55 ml",
+    "53680"
+  ),
+  _botiProduct(
+    "arbo-edt",
+    "Arbo Eau de Toilette",
+    "Arbo Eau de Toilette",
+    "perfumery",
+    "Arbo",
+    "Eau de Toilette",
+    "Eau de Toilette",
+    "100 ml",
+    "62657"
+  ),
+  _botiProduct(
+    "clash-lotion",
+    "Clash Loção Hidratante Corporal",
+    "Clash Body Lotion",
+    "body",
+    "Clash",
+    "Loção Hidratante Corporal",
+    "Body Lotion",
+    "200 ml",
+    "63470"
+  ),
+  _botiProduct(
+    "clash-pre-post-shave",
+    "Clash Gel Creme Pré e Pós-Barba",
+    "Clash Pre and Post-Shave Gel Cream",
+    "male",
+    "Clash",
+    "Gel Creme Pré e Pós-Barba",
+    "Pre and Post-Shave Gel Cream",
+    "150 g",
+    "86868"
+  ),
+  _botiProduct(
+    "clash-edt",
+    "Clash Eau de Toilette",
+    "Clash Eau de Toilette",
+    "perfumery",
+    "Clash",
+    "Eau de Toilette",
+    "Eau de Toilette",
+    "100 ml",
+    "63019"
+  ),
+  _botiProduct(
+    "coffee-man-unique",
+    "Coffee Man Unique Eau de Toilette",
+    "Coffee Man Unique Eau de Toilette",
+    "perfumery",
+    "Coffee",
+    "Eau de Toilette",
+    "Eau de Toilette",
+    "100 ml",
+    "63539",
+    "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/BT_PT_C0626_ECOMM_PDP_63539_01.png?v=1777991159"
+  ),
+  _botiProduct(
+    "coffee-man-addictive",
+    "Coffee Man Addictive Eau de Toilette",
+    "Coffee Man Addictive Eau de Toilette",
+    "perfumery",
+    "Coffee",
+    "Eau de Toilette",
+    "Eau de Toilette",
+    "100 ml",
+    "60232"
+  ),
+  _botiProduct(
+    "coffee-man-seduction",
+    "Coffee Man Seduction Eau de Toilette",
+    "Coffee Man Seduction Eau de Toilette",
+    "perfumery",
+    "Coffee",
+    "Eau de Toilette",
+    "Eau de Toilette",
+    "100 ml",
+    "62893"
+  ),
+  _botiProduct(
+    "coffee-man",
+    "Coffee Man Eau de Toilette",
+    "Coffee Man Eau de Toilette",
+    "perfumery",
+    "Coffee",
+    "Eau de Toilette",
+    "Eau de Toilette",
+    "100 ml",
+    "63544"
+  ),
+  _botiProduct(
+    "coffee-man-duo",
+    "Coffee Man Duo Eau de Toilette",
+    "Coffee Man Duo Eau de Toilette",
+    "perfumery",
+    "Coffee",
+    "Eau de Toilette",
+    "Eau de Toilette",
+    "100 ml",
+    "60240"
+  ),
+  _botiProduct(
+    "malbec-shampoo-antiqueda",
+    "Malbec Shampoo Antiqueda",
+    "Malbec Anti-Hair-Loss Shampoo",
+    "hair",
+    "Malbec",
+    "Shampoo Antiqueda",
+    "Anti-Hair-Loss Shampoo",
+    "250 ml",
+    "89780"
+  ),
+  _botiProduct(
+    "malbec-lotion-63388",
+    "Malbec Loção Hidratante Corporal",
+    "Malbec Body Lotion",
+    "body",
+    "Malbec",
+    "Loção Hidratante Corporal",
+    "Body Lotion",
+    "200 ml",
+    "63388"
+  ),
+  _botiProduct(
+    "kit-malbec-cuidados-antiqueda",
+    "Kit Malbec Cuidados Antiqueda",
+    "Malbec Anti-Hair-Loss Care Set",
+    "hair",
+    "Malbec",
+    "Kit",
+    "Gift Set",
+    "250 ml + 250 ml + 100 ml",
+    "59126"
+  ),
+  _botiProduct(
+    "malbec-facial-anti-age",
+    "Malbec Creme Hidratante Facial Anti-Idade",
+    "Malbec Anti-Ageing Facial Moisturiser",
+    "facial",
+    "Malbec",
+    "Creme Hidratante Facial",
+    "Facial Moisturiser",
+    "50 ml",
+    "59018"
+  ),
+  _botiProduct(
+    "malbec-sensitive-balm",
+    "Malbec Sensitive Balm Pós-Barba",
+    "Malbec Sensitive After-Shave Balm",
+    "male",
+    "Malbec",
+    "Balm Pós-Barba",
+    "After-Shave Balm",
+    "100 g",
+    "59024"
+  ),
+  _botiProduct(
+    "boti-baby-bath-lotion",
+    "Boti Baby Loção de Banho e Pós-Banho",
+    "Boti Baby Bath and After-Bath Lotion",
+    "baby",
+    "Boti Baby",
+    "Loção de Banho e Pós-Banho",
+    "Bath and After-Bath Lotion",
+    "200 ml",
+    "63159"
+  ),
+  _botiProduct(
+    "kit-boti-baby-casinha",
+    "Kit Presente Boti Baby Casinha",
+    "Boti Baby Casinha Gift Set",
+    "baby",
+    "Boti Baby",
+    "Kit Presente",
+    "Gift Set",
+    "100 ml + 200 ml + 200 ml",
+    "63276"
+  ),
+  _botiProduct(
+    "nativa-spa-ameixa-lotion",
+    "Nativa SPA Ameixa Loção Hidratante Corporal",
+    "Nativa SPA Plum Body Lotion",
+    "body",
+    "Nativa SPA Ameixa",
+    "Loção Hidratante Corporal",
+    "Body Lotion",
+    "400 ml",
+    "62580"
+  ),
+  _botiProduct(
+    "nativa-spa-ameixa-negra-lotion",
+    "Nativa SPA Ameixa Negra Loção Hidratante Corporal",
+    "Nativa SPA Black Plum Body Lotion",
+    "body",
+    "Nativa SPA Ameixa Negra",
+    "Loção Hidratante Corporal",
+    "Body Lotion",
+    "400 ml",
+    "64335"
+  ),
+  _botiProduct(
+    "nativa-spa-ameixa-dourada-lotion",
+    "Nativa SPA Ameixa Dourada Loção Hidratante Corporal",
+    "Nativa SPA Golden Plum Body Lotion",
+    "body",
+    "Nativa SPA Ameixa Dourada",
+    "Loção Hidratante Corporal",
+    "Body Lotion",
+    "400 ml",
+    "63027"
+  ),
+  _botiProduct(
+    "nativa-spa-ameixa-negra-hand-cream",
+    "Nativa SPA Ameixa Negra Creme Hidratante para Mãos",
+    "Nativa SPA Black Plum Hand Cream",
+    "body",
+    "Nativa SPA Ameixa Negra",
+    "Creme para Mãos",
+    "Hand Cream",
+    "75 g",
+    "87917"
+  ),
+  _botiProduct(
+    "nativa-spa-ameixa-negra-oil",
+    "Nativa SPA Ameixa Negra Óleo Glorioso Hidratante Corporal",
+    "Nativa SPA Black Plum Glorious Body Oil",
+    "body",
+    "Nativa SPA Ameixa Negra",
+    "Óleo Corporal",
+    "Body Oil",
+    "200 ml",
+    "63675"
+  ),
+  _botiProduct(
+    "nativa-spa-ameixa-negra-liquid-soap",
+    "Nativa SPA Ameixa Negra Sabonete Líquido Perfumado",
+    "Nativa SPA Black Plum Scented Liquid Soap",
+    "body",
+    "Nativa SPA Ameixa Negra",
+    "Sabonete Líquido",
+    "Liquid Soap",
+    "250 ml",
+    "86757"
+  ),
+  _botiProduct(
+    "nativa-spa-ameixa-negra-body-splash",
+    "Nativa SPA Ameixa Negra Body Splash",
+    "Nativa SPA Black Plum Body Splash",
+    "body",
+    "Nativa SPA Ameixa Negra",
+    "Body Splash",
+    "Body Splash",
+    "200 ml",
+    "63788"
+  ),
+  _botiProduct(
+    "nativa-spa-ameixa-oil-cream",
+    "Nativa SPA Ameixa Óleo em Creme Corporal",
+    "Nativa SPA Plum Body Oil Cream",
+    "body",
+    "Nativa SPA Ameixa",
+    "Óleo em Creme Corporal",
+    "Body Oil Cream",
+    "200 g",
+    "63702"
+  ),
+  _botiProduct(
+    "nativa-spa-bath-sponge",
+    "Nativa SPA Esponja de Banho",
+    "Nativa SPA Bath Sponge",
+    "body",
+    "Nativa SPA",
+    "Esponja de Banho",
+    "Bath Sponge",
+    "",
+    "84625"
+  ),
+  _botiProduct(
+    "nativa-spa-ameixa-sugar-scrub",
+    "Nativa SPA Ameixa Açúcar Esfoliante Corporal",
+    "Nativa SPA Plum Sugar Body Scrub",
+    "body",
+    "Nativa SPA Ameixa",
+    "Açúcar Esfoliante Corporal",
+    "Sugar Body Scrub",
+    "200 g",
+    "57675"
+  ),
+  _botiProduct(
+    "nativa-spa-ameixa-liquid-soap",
+    "Nativa SPA Ameixa Sabonete Líquido Perfumado",
+    "Nativa SPA Plum Scented Liquid Soap",
+    "body",
+    "Nativa SPA Ameixa",
+    "Sabonete Líquido",
+    "Liquid Soap",
+    "250 ml",
+    "53388"
+  ),
+  _botiProduct(
+    "nativa-spa-ameixa-hand-cream",
+    "Nativa SPA Ameixa Creme Hidratante para Mãos",
+    "Nativa SPA Plum Hand Cream",
+    "body",
+    "Nativa SPA Ameixa",
+    "Creme para Mãos",
+    "Hand Cream",
+    "75 g",
+    "88073"
+  ),
+  _botiProduct(
+    "nativa-spa-ameixa-body-splash",
+    "Nativa SPA Ameixa Body Splash",
+    "Nativa SPA Plum Body Splash",
+    "body",
+    "Nativa SPA Ameixa",
+    "Body Splash",
+    "Body Splash",
+    "200 ml",
+    "61536"
+  ),
+  _botiProduct(
+    "nativa-spa-ameixa-oil",
+    "Nativa SPA Ameixa Óleo Glorioso Hidratante Corporal",
+    "Nativa SPA Plum Glorious Body Oil",
+    "body",
+    "Nativa SPA Ameixa",
+    "Óleo Corporal",
+    "Body Oil",
+    "200 ml",
+    "63676"
+  ),
+  _botiProduct(
+    "nativa-spa-orquidea-lumiere-oil",
+    "Nativa SPA Orquídea Lumière Óleo Glorioso Hidratante Corporal",
+    "Nativa SPA Orquídea Lumière Glorious Body Oil",
+    "body",
+    "Nativa SPA Orquídea Lumière",
+    "Óleo Corporal",
+    "Body Oil",
+    "200 ml",
+    "63672"
+  ),
+  _botiProduct(
+    "nativa-spa-orquidea-lumiere-body-splash",
+    "Nativa SPA Orquídea Lumière Body Splash",
+    "Nativa SPA Orquídea Lumière Body Splash",
+    "body",
+    "Nativa SPA Orquídea Lumière",
+    "Body Splash",
+    "Body Splash",
+    "200 ml",
+    "63732"
+  ),
+  _botiProduct(
+    "nativa-spa-orquidea-lumiere-liquid-soap",
+    "Nativa SPA Orquídea Lumière Sabonete Líquido Perfumado",
+    "Nativa SPA Orquídea Lumière Scented Liquid Soap",
+    "body",
+    "Nativa SPA Orquídea Lumière",
+    "Sabonete Líquido",
+    "Liquid Soap",
+    "250 ml",
+    "59830"
+  ),
+  _botiProduct(
+    "nativa-spa-orquidea-lumiere-cream",
+    "Nativa SPA Orquídea Lumière Creme Perfumado Hidratante Corporal",
+    "Nativa SPA Orquídea Lumière Scented Body Cream",
+    "body",
+    "Nativa SPA Orquídea Lumière",
+    "Creme Hidratante Corporal",
+    "Body Cream",
+    "400 ml",
+    "63503"
+  ),
+  _botiProduct(
+    "nativa-spa-orquidea-noire-liquid-soap",
+    "Nativa SPA Orquídea Noire Sabonete Líquido Perfumado",
+    "Nativa SPA Orquídea Noire Scented Liquid Soap",
+    "body",
+    "Nativa SPA Orquídea Noire",
+    "Sabonete Líquido",
+    "Liquid Soap",
+    "250 ml",
+    "86755"
+  ),
+  _botiProduct(
+    "nativa-spa-orquidea-noire-body-splash",
+    "Nativa SPA Orquídea Noire Body Splash",
+    "Nativa SPA Orquídea Noire Body Splash",
+    "body",
+    "Nativa SPA Orquídea Noire",
+    "Body Splash",
+    "Body Splash",
+    "200 ml",
+    "62929"
+  ),
+  _botiProduct(
+    "nativa-spa-orquidea-noire-exfoliating-soap",
+    "Nativa SPA Orquídea Noire Sabonete Líquido Esfoliante Corporal",
+    "Nativa SPA Orquídea Noire Exfoliating Body Wash",
+    "body",
+    "Nativa SPA Orquídea Noire",
+    "Sabonete Esfoliante",
+    "Exfoliating Body Wash",
+    "175 ml",
+    "49963"
+  ),
+  _botiProduct(
+    "nativa-spa-orquidea-noire-oil",
+    "Nativa SPA Orquídea Noire Óleo Glorioso Hidratante Corporal",
+    "Nativa SPA Orquídea Noire Glorious Body Oil",
+    "body",
+    "Nativa SPA Orquídea Noire",
+    "Óleo Corporal",
+    "Body Oil",
+    "200 ml",
+    "63674"
+  ),
+  _botiProduct(
+    "nativa-spa-lilac-lotion",
+    "Nativa SPA Lilac Loção Suavizante Hidratante Corporal",
+    "Nativa SPA Lilac Smoothing Body Lotion",
+    "body",
+    "Nativa SPA Lilac",
+    "Loção Hidratante Corporal",
+    "Body Lotion",
+    "400 ml",
+    "63108"
+  ),
+  _botiProduct(
+    "nativa-spa-lilac-hands-feet",
+    "Nativa SPA Lilac Creme Hidratante para Mãos e Pés",
+    "Nativa SPA Lilac Hand and Foot Cream",
+    "body",
+    "Nativa SPA Lilac",
+    "Creme para Mãos e Pés",
+    "Hand and Foot Cream",
+    "50 g",
+    "87914"
+  ),
+  _botiProduct(
+    "nativa-spa-lilac-body-splash",
+    "Nativa SPA Lilac Body Splash",
+    "Nativa SPA Lilac Body Splash",
+    "body",
+    "Nativa SPA Lilac",
+    "Body Splash",
+    "Body Splash",
+    "200 ml",
+    "63521"
+  ),
+  _botiProduct(
+    "nativa-spa-uva-merlot-lotion",
+    "Nativa SPA Uva Merlot Loção Hidratante Corporal",
+    "Nativa SPA Merlot Grape Body Lotion",
+    "body",
+    "Nativa SPA Uva Merlot",
+    "Loção Hidratante Corporal",
+    "Body Lotion",
+    "400 ml",
+    "63357"
+  ),
+  _botiProduct(
+    "nativa-spa-morango-ruby-lotion",
+    "Nativa SPA Morango Ruby Loção Hidratante Corporal",
+    "Nativa SPA Ruby Strawberry Body Lotion",
+    "body",
+    "Nativa SPA Morango Ruby",
+    "Loção Hidratante Corporal",
+    "Body Lotion",
+    "400 ml",
+    "60153"
+  ),
+  _botiProduct(
+    "nativa-spa-morango-ruby-oil",
+    "Nativa SPA Morango Ruby Óleo Glorioso Hidratante Corporal",
+    "Nativa SPA Ruby Strawberry Glorious Body Oil",
+    "body",
+    "Nativa SPA Morango Ruby",
+    "Óleo Corporal",
+    "Body Oil",
+    "200 ml",
+    "63553"
+  ),
+  _botiProduct(
+    "nativa-spa-cereja-rouge-lotion",
+    "Nativa SPA Cereja Rouge Loção Aveludada Corporal",
+    "Nativa SPA Rouge Cherry Velvety Body Lotion",
+    "body",
+    "Nativa SPA Cereja Rouge",
+    "Loção Aveludada Corporal",
+    "Velvety Body Lotion",
+    "400 ml",
+    "63300"
+  ),
+  _botiProduct(
+    "nativa-spa-cereja-rouge-colo",
+    "Nativa SPA Cereja Rouge Creme Firmador de Colo 5 em 1",
+    "Nativa SPA Rouge Cherry 5-in-1 Décolleté Firming Cream",
+    "body",
+    "Nativa SPA Cereja Rouge",
+    "Creme Firmador",
+    "Firming Cream",
+    "200 g",
+    "57835"
+  ),
+  _botiProduct(
+    "nativa-spa-jasmim-sambac-lotion",
+    "Nativa SPA Jasmim Sambac Loção Hidratante Corporal",
+    "Nativa SPA Sambac Jasmine Body Lotion",
+    "body",
+    "Nativa SPA Jasmim Sambac",
+    "Loção Hidratante Corporal",
+    "Body Lotion",
+    "400 ml",
+    "62672"
+  ),
+  _botiProduct(
+    "nativa-spa-caviar-lotion",
+    "Nativa SPA Caviar Loção Hidratante Corporal",
+    "Nativa SPA Caviar Body Lotion",
+    "body",
+    "Nativa SPA Caviar",
+    "Loção Hidratante Corporal",
+    "Body Lotion",
+    "400 ml",
+    "63286"
+  ),
+  _botiProduct(
+    "nativa-spa-quinoa-lotion",
+    "Nativa SPA Quinoa Loção Hidratante Corporal",
+    "Nativa SPA Quinoa Body Lotion",
+    "body",
+    "Nativa SPA Quinoa",
+    "Loção Hidratante Corporal",
+    "Body Lotion",
+    "400 ml",
+    "63066"
+  ),
+  _botiProduct(
+    "nativa-spa-quinoa-liquid-soap",
+    "Nativa SPA Quinoa Sabonete Líquido Perfumado",
+    "Nativa SPA Quinoa Scented Liquid Soap",
+    "body",
+    "Nativa SPA Quinoa",
+    "Sabonete Líquido",
+    "Liquid Soap",
+    "250 ml",
+    "53391"
+  ),
+  _botiProduct(
+    "nativa-spa-quinoa-body-splash",
+    "Nativa SPA Quinoa Body Splash",
+    "Nativa SPA Quinoa Body Splash",
+    "body",
+    "Nativa SPA Quinoa",
+    "Body Splash",
+    "Body Splash",
+    "200 ml",
+    "63985"
+  ),
+  _botiProduct(
+    "nativa-spa-quinoa-oil",
+    "Nativa SPA Quinoa Óleo Glorioso Hidratante Corporal",
+    "Nativa SPA Quinoa Glorious Body Oil",
+    "body",
+    "Nativa SPA Quinoa",
+    "Óleo Corporal",
+    "Body Oil",
+    "200 ml",
+    "63677"
+  ),
+  _botiProduct(
+    "coffret-nativa-spa-quinoa",
+    "Coffret Nativa SPA Quinoa",
+    "Nativa SPA Quinoa Gift Set",
+    "body",
+    "Nativa SPA Quinoa",
+    "Coffret",
+    "Gift Set",
+    "400 ml + 200 ml",
+    "1002501"
+  ),
+  _botiProduct(
+    "nativa-spa-quinoa-travel-lotion",
+    "Nativa SPA Quinoa Loção Hidratante Corporal Tamanho Viagem",
+    "Nativa SPA Quinoa Travel Body Lotion",
+    "body",
+    "Nativa SPA Quinoa",
+    "Loção Hidratante Corporal",
+    "Body Lotion",
+    "30 ml",
+    "60178"
+  ),
+  _botiProduct(
+    "nativa-spa-acai-body-splash",
+    "Nativa SPA Açaí Body Splash",
+    "Nativa SPA Açaí Body Splash",
+    "body",
+    "Nativa SPA Açaí",
+    "Body Splash",
+    "Body Splash",
+    "200 ml",
+    "60269"
+  ),
+  _botiProduct(
+    "nativa-spa-acai-oil",
+    "Nativa SPA Açaí Óleo Glorioso Hidratante Corporal",
+    "Nativa SPA Açaí Glorious Body Oil",
+    "body",
+    "Nativa SPA Açaí",
+    "Óleo Corporal",
+    "Body Oil",
+    "200 ml",
+    "63555"
+  ),
+  _botiProduct(
+    "nativa-spa-acai-lotion",
+    "Nativa SPA Açaí Loção Hidratante Corporal",
+    "Nativa SPA Açaí Body Lotion",
+    "body",
+    "Nativa SPA Açaí",
+    "Loção Hidratante Corporal",
+    "Body Lotion",
+    "400 ml",
+    "63826"
+  ),
+  _botiProduct(
+    "nativa-spa-pitaya-sugar-scrub",
+    "Nativa SPA Pitaya Açúcar Esfoliante Corporal",
+    "Nativa SPA Pitaya Sugar Body Scrub",
+    "body",
+    "Nativa SPA Pitaya",
+    "Açúcar Esfoliante Corporal",
+    "Sugar Body Scrub",
+    "200 g",
+    "62388"
+  ),
+  _botiProduct(
+    "nativa-spa-pitaya-lotion",
+    "Nativa SPA Pitaya Loção Hidratante Corporal",
+    "Nativa SPA Pitaya Body Lotion",
+    "body",
+    "Nativa SPA Pitaya",
+    "Loção Hidratante Corporal",
+    "Body Lotion",
+    "400 ml",
+    "63361"
+  ),
+  _botiProduct(
+    "cuide-se-bem-amoruda-anti-friction",
+    "Cuide-se Bem Amoruda Stick Anti Fricção Efeito Calções Invisíveis",
+    "Cuide-se Bem Amoruda Anti-Friction Stick",
+    "body",
+    "Cuide-se Bem Amoruda",
+    "Stick Anti Fricção",
+    "Anti-Friction Stick",
+    "35 g",
+    "63527"
+  ),
+  _botiProduct(
+    "cuide-se-bem-amoruda-lotion",
+    "Cuide-se Bem Amoruda Loção Hidratante Corporal",
+    "Cuide-se Bem Amoruda Body Lotion",
+    "body",
+    "Cuide-se Bem Amoruda",
+    "Loção Hidratante Corporal",
+    "Body Lotion",
+    "400 ml",
+    "63524"
+  ),
+  _botiProduct(
+    "cuide-se-bem-amoruda-exfoliating-soap",
+    "Cuide-se Bem Amoruda Sabonete Esfoliante Corporal",
+    "Cuide-se Bem Amoruda Exfoliating Body Wash",
+    "body",
+    "Cuide-se Bem Amoruda",
+    "Sabonete Esfoliante",
+    "Exfoliating Body Wash",
+    "200 ml",
+    "63526"
+  ),
+  _botiProduct(
+    "cuide-se-bem-amoruda-body-splash",
+    "Cuide-se Bem Amoruda Body Splash",
+    "Cuide-se Bem Amoruda Body Splash",
+    "body",
+    "Cuide-se Bem Amoruda",
+    "Body Splash",
+    "Body Splash",
+    "200 ml",
+    "63704"
+  ),
+  _botiProduct(
+    "cuide-se-bem-amoruda-lip-balm",
+    "Cuide-se Bem Amoruda Balm Labial",
+    "Cuide-se Bem Amoruda Lip Balm",
+    "body",
+    "Cuide-se Bem Amoruda",
+    "Balm Labial",
+    "Lip Balm",
+    "6,2 g",
+    "86160"
+  ),
+  _botiProduct(
+    "cuide-se-bem-fruit-lip-balms",
+    "Cuide-se Bem Balm Labial Frutado",
+    "Cuide-se Bem Fruity Lip Balm",
+    "body",
+    "Cuide-se Bem",
+    "Balm Labial",
+    "Lip Balm",
+    "6,2 g",
+    null,
+    null,
+    [
+      { name: "Banana", code: "85922" },
+      { name: "Framboesa", code: "85923" },
+      { name: "Melancia", code: "85924" }
+    ]
+  ),
+  _botiProduct(
+    "cuide-se-bem-melancia-gel-scrub",
+    "Cuide-se Bem Melancia Gel Esfoliante Corporal",
+    "Cuide-se Bem Watermelon Body Scrub Gel",
+    "body",
+    "Cuide-se Bem Melancia",
+    "Gel Esfoliante Corporal",
+    "Body Scrub Gel",
+    "150 g",
+    "63444"
+  ),
+  _botiProduct(
+    "cuide-se-bem-algodao-doce-duo",
+    "Cuide-se Bem Algodão Doce Creme Duo Hidratante Corporal",
+    "Cuide-se Bem Cotton Candy Duo Body Moisturiser",
+    "body",
+    "Cuide-se Bem Algodão Doce",
+    "Creme Duo Hidratante",
+    "Duo Body Moisturiser",
+    "200 g",
+    "63701"
+  ),
+  _botiProduct(
+    "cuide-se-bem-algodao-doce-mousse",
+    "Cuide-se Bem Algodão Doce Mousse de Banho",
+    "Cuide-se Bem Cotton Candy Bath Mousse",
+    "body",
+    "Cuide-se Bem Algodão Doce",
+    "Mousse de Banho",
+    "Bath Mousse",
+    "150 ml",
+    "64070"
+  ),
+  _botiProduct(
+    "cuide-se-bem-algodao-doce-facial",
+    "Cuide-se Bem Algodão Doce Hidratante Facial",
+    "Cuide-se Bem Cotton Candy Facial Moisturiser",
+    "facial",
+    "Cuide-se Bem Algodão Doce",
+    "Hidratante Facial",
+    "Facial Moisturiser",
+    "50 g",
+    "86024"
+  ),
+  _botiProduct(
+    "cuide-se-bem-algodao-doce-body-splash",
+    "Cuide-se Bem Algodão Doce Body Splash",
+    "Cuide-se Bem Cotton Candy Body Splash",
+    "body",
+    "Cuide-se Bem Algodão Doce",
+    "Body Splash",
+    "Body Splash",
+    "200 ml",
+    "63719"
+  ),
+  _botiProduct(
+    "cuide-se-bem-algodao-doce-lotion",
+    "Cuide-se Bem Algodão Doce Loção Hidratante Corporal",
+    "Cuide-se Bem Cotton Candy Body Lotion",
+    "body",
+    "Cuide-se Bem Algodão Doce",
+    "Loção Hidratante Corporal",
+    "Body Lotion",
+    "400 ml",
+    "63700"
+  ),
+  _botiProduct(
+    "qdb-gloss-doces-delirios",
+    "Quem Disse, Berenice? Gloss Labial Doces Delírios",
+    "Quem Disse, Berenice? Doces Delírios Lip Gloss",
+    "makeup",
+    "Quem Disse, Berenice?",
+    "Gloss Labial",
+    "Lip Gloss",
+    "10 ml",
+    "86115"
+  ),
+  _botiProduct(
+    "cuide-se-bem-nuvem-alegria-oil",
+    "Cuide-se Bem Nuvem de Alegria Óleo Hidratante Corporal",
+    "Cuide-se Bem Nuvem de Alegria Body Oil",
+    "body",
+    "Cuide-se Bem Nuvem de Alegria",
+    "Óleo Hidratante Corporal",
+    "Body Oil",
+    "110 ml",
+    "58342"
+  ),
+  _botiProduct(
+    "cuide-se-bem-nuvem-alegria-soap",
+    "Cuide-se Bem Nuvem de Alegria Sabonete Líquido Corporal",
+    "Cuide-se Bem Nuvem de Alegria Liquid Body Wash",
+    "body",
+    "Cuide-se Bem Nuvem de Alegria",
+    "Sabonete Líquido Corporal",
+    "Liquid Body Wash",
+    "150 ml",
+    "63351"
+  ),
+  _botiProduct(
+    "cuide-se-bem-nuvem-alegria-body-splash",
+    "Cuide-se Bem Nuvem de Alegria Body Splash",
+    "Cuide-se Bem Nuvem de Alegria Body Splash",
+    "body",
+    "Cuide-se Bem Nuvem de Alegria",
+    "Body Splash",
+    "Body Splash",
+    "200 ml",
+    "63340"
+  ),
+  _botiProduct(
+    "cuide-se-bem-nuvem-alegria-illuminating-lotion",
+    "Cuide-se Bem Nuvem de Alegria Loção Hidratante Corporal Iluminadora",
+    "Cuide-se Bem Nuvem de Alegria Illuminating Body Lotion",
+    "body",
+    "Cuide-se Bem Nuvem de Alegria",
+    "Loção Iluminadora",
+    "Illuminating Body Lotion",
+    "150 ml",
+    "63355"
+  ),
+  _botiProduct(
+    "cuide-se-bem-nuvem-body-splash",
+    "Cuide-se Bem Nuvem Body Splash",
+    "Cuide-se Bem Nuvem Body Splash",
+    "body",
+    "Cuide-se Bem Nuvem",
+    "Body Splash",
+    "Body Splash",
+    "200 ml",
+    "63137"
+  ),
+  _botiProduct(
+    "cuide-se-bem-nuvem-lotion",
+    "Cuide-se Bem Nuvem Loção Hidratante Corporal",
+    "Cuide-se Bem Nuvem Body Lotion",
+    "body",
+    "Cuide-se Bem Nuvem",
+    "Loção Hidratante Corporal",
+    "Body Lotion",
+    "400 ml",
+    "62975"
+  ),
+  _botiProduct(
+    "cuide-se-bem-nuvem-hand-cream",
+    "Cuide-se Bem Nuvem Creme Hidratante para Mãos",
+    "Cuide-se Bem Nuvem Hand Cream",
+    "body",
+    "Cuide-se Bem Nuvem",
+    "Creme para Mãos",
+    "Hand Cream",
+    "45 g",
+    "88199"
+  ),
+  _botiProduct(
+    "cuide-se-bem-pessegura-lip-balm",
+    "Cuide-se Bem Pessegura Balm Labial",
+    "Cuide-se Bem Pessegura Lip Balm",
+    "body",
+    "Cuide-se Bem Pessegura",
+    "Balm Labial",
+    "Lip Balm",
+    "6,2 g",
+    "59500"
+  ),
+  _botiProduct(
+    "cuide-se-bem-pessegura-lotion",
+    "Cuide-se Bem Pessegura Loção Hidratante Corporal",
+    "Cuide-se Bem Pessegura Body Lotion",
+    "body",
+    "Cuide-se Bem Pessegura",
+    "Loção Hidratante Corporal",
+    "Body Lotion",
+    "400 ml",
+    "62977"
+  ),
+  _botiProduct(
+    "cuide-se-bem-pessegura-bum-mask",
+    "Cuide-se Bem Pessegura Máscara de Hidratação para Bumbum de Pêssego",
+    "Cuide-se Bem Pessegura Peach Bum Hydration Mask",
+    "body",
+    "Cuide-se Bem Pessegura",
+    "Máscara Hidratante",
+    "Hydration Mask",
+    "230 g",
+    "62978"
+  ),
+  _botiProduct(
+    "cuide-se-bem-pessegura-body-splash",
+    "Cuide-se Bem Pessegura Body Splash",
+    "Cuide-se Bem Pessegura Body Splash",
+    "body",
+    "Cuide-se Bem Pessegura",
+    "Body Splash",
+    "Body Splash",
+    "200 ml",
+    "63142"
+  ),
+  _botiProduct(
+    "cuide-se-bem-pessegura-bum-scrub",
+    "Cuide-se Bem Pessegura Creme Esfoliante para Bumbum de Pêssego",
+    "Cuide-se Bem Pessegura Peach Bum Scrub",
+    "body",
+    "Cuide-se Bem Pessegura",
+    "Creme Esfoliante",
+    "Body Scrub",
+    "230 g",
+    "51237"
+  ),
+  _botiProduct(
+    "coffret-cuide-se-bem-pessegura",
+    "Coffret Cuide-se Bem Pessegura",
+    "Cuide-se Bem Pessegura Gift Set",
+    "body",
+    "Cuide-se Bem Pessegura",
+    "Coffret",
+    "Gift Set",
+    "400 ml + 200 ml",
+    "1002494"
+  ),
+  _botiProduct(
+    "cuide-se-bem-morango-leite-body-splash",
+    "Cuide-se Bem Morango e Leite Body Splash",
+    "Cuide-se Bem Strawberry and Milk Body Splash",
+    "body",
+    "Cuide-se Bem Morango e Leite",
+    "Body Splash",
+    "Body Splash",
+    "200 ml",
+    "63952"
+  ),
+  _botiProduct(
+    "cuide-se-bem-morango-leite-lotion",
+    "Cuide-se Bem Morango e Leite Loção Hidratante Corporal",
+    "Cuide-se Bem Strawberry and Milk Body Lotion",
+    "body",
+    "Cuide-se Bem Morango e Leite",
+    "Loção Hidratante Corporal",
+    "Body Lotion",
+    "400 ml",
+    "63968"
+  ),
+  _botiProduct(
+    "cuide-se-bem-chocolatudo-body-splash",
+    "Cuide-se Bem Chocolatudo Body Splash",
+    "Cuide-se Bem Chocolatudo Body Splash",
+    "body",
+    "Cuide-se Bem Chocolatudo",
+    "Body Splash",
+    "Body Splash",
+    "200 ml",
+    "63339"
+  ),
+  _botiProduct(
+    "cuide-se-bem-chocolatudo-scrub",
+    "Cuide-se Bem Chocolatudo Creme Esfoliante Corporal",
+    "Cuide-se Bem Chocolatudo Body Scrub",
+    "body",
+    "Cuide-se Bem Chocolatudo",
+    "Creme Esfoliante Corporal",
+    "Body Scrub",
+    "150 ml",
+    "63363"
+  ),
+  _botiProduct(
+    "cuide-se-bem-deleite-lip-balm",
+    "Cuide-se Bem Deleite Balm Labial",
+    "Cuide-se Bem Deleite Lip Balm",
+    "body",
+    "Cuide-se Bem Deleite",
+    "Balm Labial",
+    "Lip Balm",
+    "6,2 g",
+    "59498"
+  ),
+  _botiProduct(
+    "cuide-se-bem-deleite-lotion",
+    "Cuide-se Bem Deleite Loção Hidratante Corporal",
+    "Cuide-se Bem Deleite Body Lotion",
+    "body",
+    "Cuide-se Bem Deleite",
+    "Loção Hidratante Corporal",
+    "Body Lotion",
+    "400 ml",
+    "63605"
+  ),
+  _botiProduct(
+    "cuide-se-bem-deleite-body-splash",
+    "Cuide-se Bem Deleite Body Splash",
+    "Cuide-se Bem Deleite Body Splash",
+    "body",
+    "Cuide-se Bem Deleite",
+    "Body Splash",
+    "Body Splash",
+    "200 ml",
+    "63138"
+  ),
+  _botiProduct(
+    "match-curvas-mask-4abc",
+    "Match Ciência das Curvas Máscara Hidratante Crespos 4ABC",
+    "Match Science of Curls Hydration Mask 4ABC",
+    "hair",
+    "Match Ciência das Curvas",
+    "Máscara Hidratante",
+    "Hydration Mask",
+    "350 g",
+    "52075"
+  ),
+  _botiProduct(
+    "match-curvas-mask-2abc-3abc",
+    "Match Ciência das Curvas Máscara Hidratante Cachos 2ABC a 3ABC",
+    "Match Science of Curls Hydration Mask 2ABC–3ABC",
+    "hair",
+    "Match Ciência das Curvas",
+    "Máscara Hidratante",
+    "Hydration Mask",
+    "350 g",
+    "94200"
+  ),
+  _botiProduct(
+    "match-curvas-shampoo",
+    "Match Ciência das Curvas Shampoo",
+    "Match Science of Curls Shampoo",
+    "hair",
+    "Match Ciência das Curvas",
+    "Shampoo",
+    "Shampoo",
+    "300 ml",
+    "52076"
+  ),
+  _botiProduct(
+    "match-curvas-scalp-serum",
+    "Match Ciência das Curvas Sérum Couro Cabeludo",
+    "Match Science of Curls Scalp Serum",
+    "hair",
+    "Match Ciência das Curvas",
+    "Sérum Couro Cabeludo",
+    "Scalp Serum",
+    "50 ml",
+    "53543"
+  ),
+  _botiProduct(
+    "match-curvas-booster-nutrition",
+    "Match Ciência das Curvas Booster de Nutrição",
+    "Match Science of Curls Nutrition Booster",
+    "hair",
+    "Match Ciência das Curvas",
+    "Booster de Nutrição",
+    "Nutrition Booster",
+    "90 ml",
+    "52085"
+  ),
+  _botiProduct(
+    "match-curvas-booster-reconstruction",
+    "Match Ciência das Curvas Booster de Reconstrução",
+    "Match Science of Curls Reconstruction Booster",
+    "hair",
+    "Match Ciência das Curvas",
+    "Booster de Reconstrução",
+    "Reconstruction Booster",
+    "90 ml",
+    "52083"
+  ),
+  _botiProduct(
+    "match-curvas-styling-cream-4abc",
+    "Match Ciência das Curvas Creme para Pentear Crespos 4ABC",
+    "Match Science of Curls Styling Cream 4ABC",
+    "hair",
+    "Match Ciência das Curvas",
+    "Creme para Pentear",
+    "Styling Cream",
+    "450 ml",
+    "86670"
+  ),
+  _botiProduct(
+    "match-curvas-jelly",
+    "Match Ciência das Curvas Finalizador Jelly Modelador",
+    "Match Science of Curls Styling Jelly",
+    "hair",
+    "Match Ciência das Curvas",
+    "Jelly Modelador",
+    "Styling Jelly",
+    "350 ml",
+    "52073"
+  ),
+  _botiProduct(
+    "match-curvas-styling-cream-2abc-3abc",
+    "Match Ciência das Curvas Creme para Pentear Cachos 2ABC a 3ABC",
+    "Match Science of Curls Styling Cream 2ABC–3ABC",
+    "hair",
+    "Match Ciência das Curvas",
+    "Creme para Pentear",
+    "Styling Cream",
+    "450 ml",
+    "52082"
+  ),
+  _botiProduct(
+    "match-science-pre-pos-quimica-conditioner",
+    "Match Science Condicionador Pré e Pós-Química",
+    "Match Science Pre and Post-Chemistry Conditioner",
+    "hair",
+    "Match Science",
+    "Condicionador",
+    "Conditioner",
+    "280 ml",
+    "56797"
+  ),
+  _botiProduct(
+    "match-science-reconstruction-conditioner",
+    "Match Science Condicionador Reconstrução",
+    "Match Science Reconstruction Conditioner",
+    "hair",
+    "Match Science",
+    "Condicionador",
+    "Conditioner",
+    "280 ml",
+    "56805"
+  ),
+  _botiProduct(
+    "match-deep-nutrition-shampoo-travel",
+    "Match Nutrição Profunda Shampoo Tamanho Viagem",
+    "Match Deep Nutrition Travel Shampoo",
+    "hair",
+    "Match Nutrição Profunda",
+    "Shampoo",
+    "Shampoo",
+    "50 ml",
+    "84739"
+  ),
+  _botiProduct(
+    "match-deep-nutrition-shampoo",
+    "Match Nutrição Profunda Shampoo",
+    "Match Deep Nutrition Shampoo",
+    "hair",
+    "Match Nutrição Profunda",
+    "Shampoo",
+    "Shampoo",
+    "300 ml",
+    "90704"
+  ),
+  _botiProduct(
+    "match-deep-nutrition-mask",
+    "Match Nutrição Profunda Máscara Capilar",
+    "Match Deep Nutrition Hair Mask",
+    "hair",
+    "Match Nutrição Profunda",
+    "Máscara Capilar",
+    "Hair Mask",
+    "70 g",
+    "89789"
+  ),
+  _botiProduct(
+    "match-deep-nutrition-leave-in",
+    "Match Nutrição Profunda Leave-In",
+    "Match Deep Nutrition Leave-In",
+    "hair",
+    "Match Nutrição Profunda",
+    "Leave-In",
+    "Leave-In",
+    "150 ml",
+    "59578"
+  ),
+  _botiProduct(
+    "match-liso-prolongado-conditioner",
+    "Match Liso Prolongado Condicionador",
+    "Match Long-Lasting Straight Conditioner",
+    "hair",
+    "Match Liso Prolongado",
+    "Condicionador",
+    "Conditioner",
+    "280 ml",
+    "82845"
+  ),
+  _botiProduct(
+    "match-liso-prolongado-shampoo",
+    "Match Liso Prolongado Shampoo",
+    "Match Long-Lasting Straight Shampoo",
+    "hair",
+    "Match Liso Prolongado",
+    "Shampoo",
+    "Shampoo",
+    "300 ml",
+    "86658"
+  ),
+  _botiProduct(
+    "match-loiro-reparado-conditioner",
+    "Match Loiro Reparado Condicionador Matizador Loiros",
+    "Match Blonde Repair Toning Conditioner",
+    "hair",
+    "Match Loiro Reparado",
+    "Condicionador Matizador",
+    "Toning Conditioner",
+    "280 ml",
+    "88006"
+  ),
+  _botiProduct(
+    "boti-sun-body-spf30-200",
+    "Boti.Sun Protetor Solar Corporal Gel Creme FPS 30",
+    "Boti.Sun Body Gel Cream Sunscreen SPF 30",
+    "sun",
+    "Boti.Sun",
+    "Protetor Solar Corporal",
+    "Body Sunscreen",
+    "200 g",
+    "50395"
+  ),
+  _botiProduct(
+    "boti-sun-body-spf50-200",
+    "Boti.Sun Protetor Solar Corporal Gel Creme FPS 50",
+    "Boti.Sun Body Gel Cream Sunscreen SPF 50",
+    "sun",
+    "Boti.Sun",
+    "Protetor Solar Corporal",
+    "Body Sunscreen",
+    "200 g",
+    "47963"
+  ),
+  _botiProduct(
+    "boti-sun-body-spf50-120",
+    "Boti.Sun Protetor Solar Corporal Gel Creme FPS 50",
+    "Boti.Sun Body Gel Cream Sunscreen SPF 50",
+    "sun",
+    "Boti.Sun",
+    "Protetor Solar Corporal",
+    "Body Sunscreen",
+    "120 g",
+    "86866"
+  )
+);
+const PRODUCT_IMAGE_FIXES = {
+  "malbec-lotion-63547": "https://paradea.it/cdn/shop/files/MalbecLocaoHidratanteDesodoranteCorporal200ml_1.jpg?v=1763545252&width=1000",
+  "malbec-x": "https://res.cloudinary.com/beleza-na-web/image/upload/w_1500%2Cf_auto%2Cfl_progressive%2Cq_auto%3Abest/v1/imagens/products/B30192/malbec-x_B30192_conceito.jpg",
+  "zaad-edp": "https://cdn.notinoimg.com/detail_main_hq/oboticario/7891033479504_02-o/zaad-zaad-eau-de-parfum-para-hombre___240130.jpg",
+  "zaad-mondo": "https://m.media-amazon.com/images/I/51U2riQZuBL._SL1024_.jpg",
+  "zaad-venture": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lyctkvu9v6qtef",
+  "quasar-blue-roll-on": "https://imagedelivery.net/aHKpKhj4130GaLCcCy7USA/33368d80-c7be-43cd-17ca-209f860da900/public",
+  "arbo-edt": "https://vitoriacosmeticos.pt/cdn/shop/files/2_e96df082-9eca-4356-b8ec-1ece0b72c43d.png?v=1768492244&width=1400",
+  "clash-lotion": "https://www.miperfumeria.es/993-large_default/clash-oboticario-locion-hidratante-corporal.jpg",
+  "clash-pre-post-shave": "https://res.cloudinary.com/beleza-na-web/image/upload/w_1500%2Cf_auto%2Cfl_progressive%2Cq_auto%3Abest/v1/imagens/product/B86868/ead62427-7cec-42fa-bf0d-194afd39c62e-bot-86868-creme-barba-01.jpg",
+  "clash-edt": "https://dcdn-us.mitiendanube.com/stores/005/031/830/products/53a5c36e623c68f1f0db920479c601ec-5202e2709522c7645517481194060964-640-0.webp",
+  "coffee-man-addictive": "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/63335_01.jpg?v=1764633827",
+  "coffee-man-seduction": "https://cisterli.com/cdn/shop/files/COFFEE-DES-COL-MAN-SEDUC-100ml-V4_B48365_segredinho.webp?v=1721448176",
+  "coffee-man": "https://http2.mlstatic.com/D_NQ_NP_871630-MLB79057438181_092024-O-o-boticario-coffee-man-ou-coffee-woman-desodorante-colnia-100ml-cada-varias-fragrncias-conforme-foto-e-descrico.webp",
+  "coffee-man-duo": "https://redeloja-global.b-cdn.net/arquivos/produtos/a091af14-8968-4ee1-9782-8104ba01a382/5d6374fe-b78a-455d-b439-470a40afd5ac.jpg?v=1780428376",
+  "malbec-shampoo-antiqueda": "https://static.wixstatic.com/media/62fbbf_ddfe6f2f62f743be96e9d11077077332~mv2.jpg/v1/fill/w_800%2Ch_800%2Cal_c%2Cq_85%2Cenc_avif%2Cquality_auto/62fbbf_ddfe6f2f62f743be96e9d11077077332~mv2.jpg",
+  "nativa-spa-ameixa-negra-hand-cream": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-m9dlhjs9gu0yc2",
+  "nativa-spa-ameixa-negra-liquid-soap": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lzsbgs7i7out82",
+  "nativa-spa-ameixa-oil-cream": "https://res.cloudinary.com/beleza-na-web/image/upload/w_1500%2Cf_auto%2Cfl_progressive%2Cq_auto%3Aeco%2Cw_1800%2Cc_limit/e_trim/v1/imagens/product/B85163/8ec2b06f-4601-4c82-b2b3-daa7551c3499-bot-85163-nativa-spa-ameixa-oleo-em-creme-01.jpg",
+  "nativa-spa-ameixa-sugar-scrub": "https://down-br.img.susercontent.com/file/br-11134207-820lf-mm29f9kxsa9sf7",
+  "nativa-spa-ameixa-hand-cream": "https://a-static.mlcdn.com.br/%7Bw%7Dx%7Bh%7D/creme-hidratante-para-maos-nativa-spa-ameixa-75g-boticario/dalvascosmeticos/3974/5c94d6957976f6cc6c272a8b17f670ca.jpeg",
+  "nativa-spa-ameixa-body-splash": "https://i.ebayimg.com/images/g/QSkAAOSwNohk6~U5/s-l1200.jpg",
+  "nativa-spa-orquidea-lumiere-liquid-soap": "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/BT_PT_C0626_ECOMM_PDP_59830_01.png?v=1777979050",
+  "nativa-spa-orquidea-noire-liquid-soap": "https://http2.mlstatic.com/D_Q_NP_872748-MLA99361493882_112025-O.webp",
+  "nativa-spa-orquidea-noire-body-splash": "https://fimgs.net/mdimg/perfume-thumbs/375x500.81600.2x.jpg",
+  "nativa-spa-orquidea-noire-exfoliating-soap": "https://oboticariove.com/cdn/shop/files/BT_05_23_NSPA_Orquidea_Noire_SabEsfoliante_49963_frontal.0001.preview_2000x.jpg?v=1708000818",
+  "nativa-spa-orquidea-noire-oil": "https://down-br.img.susercontent.com/file/br-11134207-7qukw-lf7cto9mne2392",
+  "nativa-spa-lilac-lotion": "https://beauteflorale.com/cdn/shop/files/oboticario-crema-hidratante-corporal-lilac-1197614836.jpg?v=1760488806&width=1946",
+  "nativa-spa-lilac-hands-feet": "https://brazilianmultibrandstore.com/cdn/shop/files/53356_1000x_af70a371-76aa-48cf-a8b3-033de4ca44b8.jpg?v=1728828963&width=1445",
+  "nativa-spa-lilac-body-splash": "https://static.wixstatic.com/media/295529_475af0979b6e456bbb788ef3415da8f0~mv2.jpg/v1/fill/w_800%2Ch_800%2Cal_c%2Cq_85%2Cenc_avif%2Cquality_auto/295529_475af0979b6e456bbb788ef3415da8f0~mv2.jpg"
+};
+applyImageFixes(PRODUCT_IMAGE_FIXES);
+const PRODUCT_IMAGE_FIXES_FINAL = {
+  "zaad-lotion": "https://www.essencesofbrazil.com/cdn/shop/files/20F2ADDD-5BF7-4194-8E03-1176A218356B.webp?v=1772206522&width=533",
+  "malbec-lotion-63388": "https://res.cloudinary.com/beleza-na-web/image/upload/w_1500%2Cf_auto%2Cfl_progressive%2Cq_auto%3Abest/v1/imagens/product/B74965/c62eb1a0-c67b-4470-a549-03879b92cc8e-bot-74965-malbec-corpo-locao-hidratante-frontal-01.jpg",
+  "kit-malbec-cuidados-antiqueda": "https://brcatalogos.com.br/_next/image?q=75&url=https%3A%2F%2Fcdn.brcatalogos.com.br%2Fo%2FqG0_f8HRQ2Zyp-n3XDE-ZMFfp-A5L2K0pkwSxMd0OFpksFaGbi7lbgReGKtQWARAkFqLBw1r-77D0tNPyIlY6Z08HrRbtLaHe6fIUsKC%2F59126-59126.webp%3Fexp%3D1786579200%26sig%3DA9ksQVudOWZrOEOcX1cAej_V752jNtnAj_Oo-3TWzHo&w=1536",
+  "malbec-facial-anti-age": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-m4kuomzelnw567",
+  "malbec-sensitive-balm": "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/59024.jpg?v=1739352917",
+  "boti-baby-bath-lotion": "https://res.cloudinary.com/beleza-na-web/image/upload/w_1500%2Cf_auto%2Cfl_progressive%2Cq_auto%3Aeco%2Cw_1800%2Cc_limit/e_trim/v1/imagens/product/B52022/dd8a5933-5636-436e-b3d3-cfa201ee2513-52022-bot-baby-locao-banho-pos-banho-frontal-01.jpg",
+  "kit-boti-baby-casinha": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lu1baqje2p9c30",
+  "nativa-spa-ameixa-lotion": "https://down-br.img.susercontent.com/file/4ac5f7874baa80218477adc96b68bb89",
+  "nativa-spa-ameixa-negra-lotion": "https://bonitaemaquiada.com/cdn/shop/files/Semnome_1080x1080px_7_0f0724dc-0e7f-4a29-80cc-062e4ab0cb01_grande.png?v=1751571008",
+  "nativa-spa-ameixa-dourada-lotion": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-m5a5kxnq9nd142",
+  "nativa-spa-ameixa-negra-oil": "https://dcdn-us.mitiendanube.com/stores/004/599/657/products/oleo-ameixa-ngra-0f1d65b6e5a83315e317634359964173-1024-1024.webp",
+  "nativa-spa-ameixa-negra-body-splash": "https://cdn.shopify.com/s/files/1/0632/5511/8040/files/2_6023_C01_63788-compressed.jpg?v=1766460836",
+  "nativa-spa-bath-sponge": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-m967h55sdk555f",
+  "nativa-spa-ameixa-liquid-soap": "https://www.boticarioskincare.com/modeqaf/product_images/jabn_liquido_corporal_de__SKUp1kz4ykU_2-510x510.webp",
+  "nativa-spa-ameixa-oil": "https://acdn-us.mitiendanube.com/stores/004/297/279/products/oleo-glorioso-ameixa-81f01eef2b47f6b80517653018895074-480-0.webp",
+  "nativa-spa-orquidea-lumiere-oil": "https://down-br.img.susercontent.com/file/br-11134207-81z1k-mg9ueabiakg49f",
+  "nativa-spa-orquidea-lumiere-body-splash": "https://fimgs.net/mdimg/perfume-thumbs/375x500.117142.2x.jpg",
+  "nativa-spa-orquidea-lumiere-cream": "https://res.cloudinary.com/beleza-na-web/image/upload/w_1500%2Cf_auto%2Cfl_progressive%2Cq_auto%3Abest/v1/imagens/product/B59823/d8e7b197-b38a-48b4-a9b4-e6e7098f7da0-bot-59823-nativa-spa-orquidea-lumiere-locao-400ml-01.jpg",
+  "nativa-spa-uva-merlot-lotion": "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/PT_BOTICARIO_C10.25_PAGINADEPRODUTO_Lancamentos-12.jpg?v=1764633865",
+  "nativa-spa-morango-ruby-lotion": "https://tiendacdn.farmashop.com.uy/media/catalog/product/cache/b95c5a80fceba83a019bf329d51e253e/1/0/1015679_4.jpg",
+  "nativa-spa-morango-ruby-oil": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lzr5p0gv9vo573",
+  "nativa-spa-cereja-rouge-lotion": "https://down-br.img.susercontent.com/file/sg-11134201-7rcdp-m6n6wdyngtmj88",
+  "nativa-spa-cereja-rouge-colo": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-m8mf9e6m4j5d24",
+  "nativa-spa-jasmim-sambac-lotion": "https://www.josikabeauty.com/cdn/shop/files/NativaSPACORPS.png?v=1714643484",
+  "nativa-spa-caviar-lotion": "https://down-br.img.susercontent.com/file/br-11134207-7qukw-lgc7x9su3csf88",
+  "nativa-spa-quinoa-lotion": "https://beauteflorale.com/cdn/shop/products/oboticario-hidratante-corporal-quinoa-1197616569.jpg?v=1760527682&width=416",
+  "nativa-spa-quinoa-liquid-soap": "https://ybybeauty.com/cdn/shop/files/IMG-7477.jpg?v=1755834342&width=1445",
+  "nativa-spa-quinoa-body-splash": "https://cdn.shopify.com/s/files/1/0630/3029/6801/products/BODY_SPLASH_QUINOA.jpg?v=1674553347",
+  "nativa-spa-quinoa-oil": "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/63677-02.jpg?v=1774968358",
+  "coffret-nativa-spa-quinoa": "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/1002781.jpg?v=1760436778",
+  "nativa-spa-quinoa-travel-lotion": "https://alexandrahidalgo.pe/cdn/shop/files/148_8df43164-a380-488c-bb54-0a15e7893f34.png?v=1707156295",
+  "nativa-spa-acai-body-splash": "https://remembrstore.com/cdn/shop/files/remembr-default-title-body-splash-acai-nativa-spa-boticario-200ml-40689379049763.jpg?v=1765327117",
+  "nativa-spa-acai-oil": "https://beauteflorale.com/cdn/shop/products/oboticario-oleo-hidratante-corporal-acai-1197616615.jpg?v=1760482084",
+  "nativa-spa-acai-lotion": "https://wells.pt/on/demandware.static/-/Sites-wells-master-catalog/default/dw5d5b834a/images/wells/884/8849032-CORPO-NATIVA-SPA-ACAI-LOCAO-HIDRATANTE-CORPORAL-O-BOTICARIO-P-04.jpg",
+  "nativa-spa-pitaya-sugar-scrub": "https://media.falabella.com/falabellaCO/10531235_1/w%3D1500%2Ch%3D1500%2Cfit%3Dcover",
+  "nativa-spa-pitaya-lotion": "https://pyunicentroprod.vtexassets.com/arquivos/ids/441496/IMG-EC019166-7891033625482-01.jpg?v=638242563219030000",
+  "cuide-se-bem-amoruda-anti-friction": "https://down-br.img.susercontent.com/file/br-11134207-81ztc-mjnf0s9zzsw619",
+  "cuide-se-bem-amoruda-lotion": "https://a-static.mlcdn.com.br/800x600/presente-amoruda-body-splash-200ml-locao-corporal-400ml-o-boticario/megacatalogos/b2025060902/e31e8ad5c6ca1b8e23f740d9acfc8557.jpeg",
+  "cuide-se-bem-amoruda-exfoliating-soap": "https://down-br.img.susercontent.com/file/br-11134207-81z1k-mfvz3jvti8e80a",
+  "cuide-se-bem-amoruda-body-splash": "https://down-br.img.susercontent.com/file/br-11134207-81z1k-mifvmkbry1ojb0",
+  "cuide-se-bem-amoruda-lip-balm": "https://down-br.img.susercontent.com/file/sg-11134201-824ho-mdvtx833buv625",
+  "cuide-se-bem-fruit-lip-balms": "https://down-br.img.susercontent.com/file/br-11134207-81z1k-me9wc7024nwj91",
+  "cuide-se-bem-melancia-gel-scrub": "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/55126_CBEMGELESFCPOMEL150g.jpg?v=1751972121",
+  "cuide-se-bem-algodao-doce-duo": "https://a-static.mlcdn.com.br/800x800/creme-duo-desodorante-hidratante-corporal-cuide-se-bem-doces-delirios-algodao-doce-200g-o-boticario/afperfumes/0c426dee88b711f098da42010a480899/5cfbf5dc01e50005b7a0f7b09f82c377.jpeg",
+  "cuide-se-bem-algodao-doce-mousse": "https://redeloja-global.b-cdn.net/arquivos/produtos/82ff7e6f-7f28-4740-bf36-edccf2d862eb/b00f7190-ce4f-4f64-9120-bc431216377c.jpg?v=1780420951",
+  "cuide-se-bem-algodao-doce-facial": "https://down-br.img.susercontent.com/file/sg-11134201-824jg-meaqntby718ja7",
+  "cuide-se-bem-algodao-doce-body-splash": "https://acdn-us.mitiendanube.com/stores/006/079/894/products/design-sem-nome-3-f2ee1bf32fa2503a3917785242980624-480-0.webp",
+  "cuide-se-bem-algodao-doce-lotion": "https://redeloja-global.b-cdn.net/arquivos/produtos/ef676ac1-8601-45dc-b71d-4207b7c1eb99/d97762f5-95e4-4a6e-8217-68e084c115ae.jpg?v=1780340301",
+  "qdb-gloss-doces-delirios": "https://photos.enjoei.com.br/gloss-labial-rosa-cuide-se-bem-doces-delirios-algodao-doce-quem-disse-berenice/1200xN/czM6Ly9waG90b3MuZW5qb2VpLmNvbS5ici9wcm9kdWN0cy8zODI2OTU1MS85YTUzZmFlMzk0M2RlZmFkYzI1NDZkMDIyZjYyZjg5NS5qcGc",
+  "cuide-se-bem-nuvem-alegria-oil": "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/BT_PT_C1125_ECOMM_PDP_CBEM_ALEGRIA_OLEO_01_1.jpg?v=1764633869",
+  "cuide-se-bem-nuvem-alegria-soap": "https://www.essencesofbrazil.com/cdn/shop/files/IMG-1303.webp?v=1761051541",
+  "cuide-se-bem-nuvem-alegria-body-splash": "https://redeloja-global.b-cdn.net/arquivos/produtos/33d82f5b-e36c-4359-bce4-5f2ce44302b8/6dc1b5eb-a95a-40b0-9e17-19b273d07824.jpg?v=1780341070",
+  "cuide-se-bem-nuvem-alegria-illuminating-lotion": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-m8ky1vcxaeb540",
+  "cuide-se-bem-nuvem-body-splash": "https://down-br.img.susercontent.com/file/br-11134207-7r98q-ll9s0x8qdanw09",
+  "cuide-se-bem-nuvem-lotion": "https://latin-flavour.de/cdn/shop/products/Nuvem400ml.jpg?v=1672829923",
+  "cuide-se-bem-nuvem-hand-cream": "https://i.pinimg.com/originals/08/91/ee/0891eec08e4972c6358a87a405371041.jpg",
+  "cuide-se-bem-pessegura-lip-balm": "https://paradea.it/cdn/shop/files/o-boticario-cuide-se-bem-hidratante-labial-pessegura-burrocacao-o-boticario-41997844.jpg?v=1751143038",
+  "cuide-se-bem-pessegura-lotion": "https://static.wixstatic.com/media/295529_c0b1a33366b94db7a1ab9ceba8514fd1~mv2.jpg/v1/fit/w_500%2Ch_500%2Cq_90/file.jpg",
+  "cuide-se-bem-pessegura-bum-mask": "https://cdn.shopify.com/s/files/1/0632/5511/8040/files/60056-1-CBEM-MASCARA-HIDRATANTE-PARA-LAS-NALGAS-BUMBUM-DE-PESSEGO-230g-EXP-REPACK.jpg?v=1738245602",
+  "cuide-se-bem-pessegura-body-splash": "https://photos.enjoei.com.br/body-splash-pessego-cuide-se-bem-o-boticario-cheirinho-doce-e-refrescante-137922053/828xN/czM6Ly9waG90b3MuZW5qb2VpLmNvbS5ici9wcm9kdWN0cy80MTI5MzY4My8wYTEzNGM1N2MwZTg5Y2E1MGQyZTg2NTA4MDMxM2NhNC5qcGc",
+  "cuide-se-bem-pessegura-bum-scrub": "https://photos.enjoei.com.br/public/1200x1200/czM6Ly9waG90b3MuZW5qb2VpLmNvbS5ici9wcm9kdWN0cy8zMDYyNjM5NC9hZTNkNDY1OThmOGUyNTE4YzVmZmVkMDgzMDQwYjA3My5qcGc",
+  "coffret-cuide-se-bem-pessegura": "https://paradea.it/cdn/shop/files/OBoticarioCuide-seBemSetPesseguraLocaoCorporaleBodySplash_1.jpg?v=1775655944",
+  "cuide-se-bem-morango-leite-body-splash": "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/63952GG.jpg?v=1768852230",
+  "cuide-se-bem-morango-leite-lotion": "https://res.cloudinary.com/beleza-na-web/image/upload/f_auto%2Cfl_progressive%2Cq_auto%3Abest/v1/imagens/product/B28349/c8eb6cba-231a-49e6-8e75-5a916a92148b-locao-hidratante-desodorante-corporal-cuide-se-bem-morango-e-leite-400ml.png",
+  "cuide-se-bem-chocolatudo-body-splash": "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/55022CBEMBDYSPLSHCHOCLEI200ml_2.jpg?v=1752512414",
+  "cuide-se-bem-chocolatudo-scrub": "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/55051CBEMCRESFCPOCHOC_LEI150ml_2.jpg?v=1753356591",
+  "cuide-se-bem-deleite-lip-balm": "https://down-br.img.susercontent.com/file/27c9c2c77dce82bea7dbb079304ffd2a",
+  "cuide-se-bem-deleite-lotion": "https://dcdn-us.mitiendanube.com/stores/002/066/913/products/1_20250608_175829_0000-af4978290d76b7341217494163287971-1024-1024.webp",
+  "cuide-se-bem-deleite-body-splash": "https://http2.mlstatic.com/D_Q_NP_2X_979290-MLU82921729212_032025-P.webp",
+  "match-curvas-mask-4abc": "https://cdn.shopify.com/s/files/1/0632/5511/8040/files/52075-1-MATCH-MASC-CAP-HID-4ABC-CIEN-CURV-350g.jpg?v=1727714501",
+  "match-curvas-mask-2abc-3abc": "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/52079.jpg?v=1726593946",
+  "match-curvas-shampoo": "https://primpypoint.net/26612-thickbox_default/o-boticario-match-ciencias-das-curvas-shampoo-300ml.jpg",
+  "match-curvas-scalp-serum": "https://brazilianmultibrandstore.com/cdn/shop/files/6.png?v=1747853364",
+  "match-curvas-booster-nutrition": "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/52085_01.jpg?v=1757424310",
+  "match-curvas-booster-reconstruction": "https://paradea.it/cdn/shop/files/Match.CienciasdasCurvasBoosterCapilarReconstrucao90ml_1.jpg?v=1757950115&width=1000",
+  "match-curvas-styling-cream-4abc": "https://cdn.notinoimg.com/detail_main_lq/oboticario/7891033520770_01-o/match-science-of-curves-moisturising-cream-for-wavy-and-curly-hair___240130.jpg",
+  "match-curvas-jelly": "https://www.boticarioskincare.com/modeqaf/product_images/gelatina_capilar_ciencia__SKUTNZp3gXf_0-510x510.webp",
+  "match-curvas-styling-cream-2abc-3abc": "https://http2.mlstatic.com/D_NQ_NP_987195-MLA99361879434_112025-O.webp",
+  "match-science-pre-pos-quimica-conditioner": "https://idabeauty.co.uk/cdn/shop/files/56797_1000x_b081d35c-04b1-4849-95a6-8e428b21281d.webp?v=1738764467&width=1024",
+  "match-science-reconstruction-conditioner": "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/56805.jpg?v=1734694420",
+  "match-deep-nutrition-shampoo-travel": "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/56186.jpg?v=1716918295",
+  "match-deep-nutrition-shampoo": "https://shop.r10s.jp/auc-sannas/cabinet/boticario/x050-s.jpg",
+  "match-deep-nutrition-mask": "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/BT_16_23_56188_MATCH_MASC_CAP_NUTRICAO_PROFUNDA_70g_PLANTA_1000x1000_d20d292f-4dca-4aa5-90a4-34ed983fe7a1.jpg?v=1716920295",
+  "match-deep-nutrition-leave-in": "https://tiendacdn.farmashop.com.uy/media/catalog/product/1/0/1014077_1_1.jpg?image-type=image&store=default",
+  "match-liso-prolongado-conditioner": "https://a-static.mlcdn.com.br/%7Bw%7Dx%7Bh%7D/combo-match-liso-prolongado-4-itens-o-boticario/megacatalogos/mlb3951776714/1333a8f4eb9a8409c6efa1953fba6f1e.jpeg",
+  "match-liso-prolongado-shampoo": "https://static.wixstatic.com/media/62fbbf_9f3d1afc200f491296672b46098e902e~mv2.jpg/v1/fit/w_500%2Ch_500%2Cq_90/file.jpg",
+  "match-loiro-reparado-conditioner": "https://shop.r10s.jp/auc-southern-s/cabinet/boticario/boticario_1/bo-mat-cond-loiro.jpg",
+  "boti-sun-body-spf30-200": "https://www.lojashampoo.pt/image/cache/catalog/products/boticario/7891033503957_main-800x800.jpg",
+  "boti-sun-body-spf50-200": "https://oboticariove.com/cdn/shop/files/47594BotiSonFPS50Corporal_1600x.png?v=1685544836",
+  "boti-sun-body-spf50-120": "https://down-br.img.susercontent.com/file/br-11134207-81z1k-mglgbkqt1kp3a8"
+};
+applyImageFixes(PRODUCT_IMAGE_FIXES_FINAL);
+PRODUCTS.push(
+  _botiProduct(
+    "egeo-spicy-vibe",
+    "Egeo Spicy Vibe Desodorante Colônia",
+    "Egeo Spicy Vibe Eau de Toilette",
+    "perfumery",
+    "Egeo",
+    "Desodorante Colônia",
+    "Eau de Toilette",
+    "90 ml",
+    "84214",
+    "https://down-br.img.susercontent.com/file/br-11134207-7qukw-lkikve8h26upba"
+  ),
+  _botiProduct(
+    "floratta-my-blue",
+    "Floratta My Blue Desodorante Colônia",
+    "Floratta My Blue Eau de Toilette",
+    "perfumery",
+    "Floratta",
+    "Desodorante Colônia",
+    "Eau de Toilette",
+    "75 ml",
+    "63327",
+    "https://p16-oec-general-useast5.ttcdn-us.com/tos-useast5-i-omjb5zjo8w-tx/8c4156f300244e128ca7378064f3ec52~tplv-fhlh96nyum-crop-webp%3A1500%3A1500.webp?dr=12190&from=2378011839&idc=useast5&ps=933b5bde&shcp=607f11de&shp=8dbd94bf&t=555f072d"
+  ),
+  _botiProduct(
+    "malbec-black",
+    "Malbec Black Desodorante Colônia",
+    "Malbec Black Eau de Toilette",
+    "perfumery",
+    "Malbec",
+    "Desodorante Colônia",
+    "Eau de Toilette",
+    "100 ml",
+    "60017",
+    "https://carrefourbr.vtexassets.com/arquivos/ids/176801468/9cac2d3920d6459aa4c3947eeafe4422.jpg?v=638654634631530000"
+  )
+);
+console.log("Total products:", PRODUCTS.length);
+console.log(
+  "Products without images:",
+  PRODUCTS.filter((product) => !product.image).length
+);
+const BROKEN_IMAGE_FIXES = {
+  "botica-214-african-sunrise-masculino": "https://static.wixstatic.com/media/9523de_cf4e3b3ea14a4c88a3c6d69a5742c3ec~mv2.webp/v1/fill/w_700,h_700,al_c,q_85,enc_avif,quality_auto/9523de_cf4e3b3ea14a4c88a3c6d69a5742c3ec~mv2.webp",
+  "kit-malbec-cuidados-antiqueda": "https://down-br.img.susercontent.com/file/9da89c346a21c5f4270e316f354958f2",
+  "nativa-spa-morango-ruby-lotion": "https://media.falabella.com/falabellaCO/61259337_1/w=1500,h=1500,fit=cover",
+  "match-curvas-shampoo": "https://dcdn-us.mitiendanube.com/stores/004/636/464/products/a8ddb3a5-601f-4852-a235-313906cebab3-bot-52076-match-ciencia-das-curvas-shampoo-frontal-01-bd325cb705a186940717644229724027-480-0.webp",
+  "match-deep-nutrition-leave-in": "https://www.natureza.es/cdn/shop/files/leave-in-match-nutricao-profunda_1000x_4ca6a754-90ef-47d9-825c-ea7b16b5f1c7.webp?v=1724058787"
+};
+applyImageFixes(BROKEN_IMAGE_FIXES, true);
+PRODUCTS.push(
+  _botiProduct(
+    "floratta-blue",
+    "Floratta Blue Desodorante Colônia",
+    "Floratta Blue Eau de Toilette",
+    "perfumery",
+    "Floratta",
+    "Desodorante Colônia",
+    "Eau de Toilette",
+    "75 ml",
+    "48310",
+    "https://http2.mlstatic.com/D_NQ_NP_983341-MLB95704747102_102025-O-floratta-blue-desodorante-colnia-75ml-o-boticario.webp"
+  ),
+  _botiProduct(
+    "boticollection-free",
+    "Boticollection Free Desodorante Colônia",
+    "Boticollection Free Eau de Toilette",
+    "perfumery",
+    "Boticollection",
+    "Desodorante Colônia",
+    "Eau de Toilette",
+    "100 ml",
+    "22249",
+    "https://res.cloudinary.com/beleza-na-web/image/upload/f_auto%2Cfl_progressive%2Cq_auto%3Aeco/loucas/wordpress/prod/sites/7/2024/11/05161951/IMG_2523_jpg-scaled.jpg"
+  ),
+  _botiProduct(
+    "botica-214-golden-gardenia",
+    "Botica 214 Golden Gardênia Eau de Parfum",
+    "Botica 214 Golden Gardenia Eau de Parfum",
+    "perfumery",
+    "Botica 214",
+    "Eau de Parfum",
+    "Eau de Parfum",
+    "75 ml",
+    "47629",
+    "https://http2.mlstatic.com/D_NQ_NP_791950-MLB91529976215_092025-O.webp"
+  ),
+  _botiProduct(
+    "glamour-midnight",
+    "Glamour Midnight Desodorante Colônia",
+    "Glamour Midnight Eau de Toilette",
+    "perfumery",
+    "Glamour",
+    "Desodorante Colônia",
+    "Eau de Toilette",
+    "75 ml",
+    "51704",
+    "https://photos.enjoei.com.br/public/1200x1200/czM6Ly9waG90b3MuZW5qb2VpLmNvbS5ici9wcm9kdWN0cy80NzAxLzhlODdhNjViZDk5NGY0MWM3NzliZTQ2ZDgyNjA1MTI0LmpwZw"
+  ),
+  _botiProduct(
+    "arbo-puro",
+    "Arbo Puro Desodorante Colônia",
+    "Arbo Puro Eau de Toilette",
+    "perfumery",
+    "Arbo",
+    "Desodorante Colônia",
+    "Eau de Toilette",
+    "100 ml",
+    "52898",
+    "https://down-br.img.susercontent.com/file/br-11134207-7r98o-m5yc4ko4yyeq8b"
+  ),
+  _botiProduct(
+    "quasar-brave",
+    "Quasar Brave Desodorante Colônia",
+    "Quasar Brave Eau de Toilette",
+    "perfumery",
+    "Quasar",
+    "Desodorante Colônia",
+    "Eau de Toilette",
+    "100 ml",
+    "51242",
+    "https://down-br.img.susercontent.com/file/br-11134207-7r98o-m6zbqmipkxgn22"
+  ),
+  _botiProduct(
+    "malbec-bleu",
+    "Malbec Bleu Desodorante Colônia",
+    "Malbec Bleu Eau de Toilette",
+    "perfumery",
+    "Malbec",
+    "Desodorante Colônia",
+    "Eau de Toilette",
+    "100 ml",
+    "83188",
+    "https://down-br.img.susercontent.com/file/br-11134207-7r98p-ll75m9rkjr4m7a"
+  ),
+  _botiProduct(
+    "elysee-succes",
+    "Elysée Succès Eau de Parfum",
+    "Elysée Succès Eau de Parfum",
+    "perfumery",
+    "Elysée",
+    "Eau de Parfum",
+    "Eau de Parfum",
+    "50 ml",
+    "81331",
+    "https://photos.enjoei.com.br/perfume-elysee-sucess-o-boticario-eau-de-parfum-50-ml-novo/1200xN/czM6Ly9waG90b3MuZW5qb2VpLmNvbS5ici9wcm9kdWN0cy84MTc5Njg0LzQ1OTE1N2JlYjM0OGE4Y2Y2NTU3MWU3NTBjMTMxYjI5LmpwZw"
+  ),
+  _botiProduct(
+    "quasar-deep-blue",
+    "Quasar Deep Blue Desodorante Colônia",
+    "Quasar Deep Blue Eau de Toilette",
+    "perfumery",
+    "Quasar",
+    "Desodorante Colônia",
+    "Eau de Toilette",
+    "100 ml",
+    "58526",
+    "https://down-br.img.susercontent.com/file/br-11134207-7r98o-m25ici0ml5ue16"
+  ),
+  _botiProduct(
+    "quasar-classic",
+    "Quasar Classic Desodorante Colônia",
+    "Quasar Classic Eau de Toilette",
+    "perfumery",
+    "Quasar",
+    "Desodorante Colônia",
+    "Eau de Toilette",
+    "100 ml",
+    "51243",
+    "https://down-br.img.susercontent.com/file/sg-11134201-7ra0m-mb8hqyp37qsjfd"
+  )
+);
+PRODUCTS.push(
+  _botiProduct(
+    "lily-lumiere-edp",
+    "Lily Lumière Eau de Parfum",
+    "Lily Lumière Eau de Parfum",
+    "perfumery",
+    "Lily Lumière",
+    "Eau de Parfum",
+    "Eau de Parfum",
+    "75 ml",
+    "77989",
+    "https://http2.mlstatic.com/D_Q_NP_2X_982453-MLB100060224533_122025-P.webp"
+  ),
+  _botiProduct(
+    "love-lily-edp",
+    "Love Lily Eau de Parfum",
+    "Love Lily Eau de Parfum",
+    "perfumery",
+    "Lily Love",
+    "Eau de Parfum",
+    "Eau de Parfum",
+    "75 ml",
+    "77517",
+    "https://cdn.shopify.com/s/files/1/0630/3029/6801/products/BT_CONTENT_77517_conceitual_LoveLily_1.jpg?v=1742896210"
+  ),
+  _botiProduct(
+    "floratta-fleur-supreme",
+    "Floratta Fleur Suprême Eau de Parfum",
+    "Floratta Fleur Suprême Eau de Parfum",
+    "perfumery",
+    "Floratta",
+    "Eau de Parfum",
+    "Eau de Parfum",
+    "75 ml",
+    "70689",
+    "https://a-static.mlcdn.com.br/%7Bw%7Dx%7Bh%7D/floratta-fleur-supreme-eau-de-parfum-75ml-o-boticario/sentileza2/16050268506/14d357a551e6508d2dbc40cd9af2b2f2.jpeg"
+  ),
+  _botiProduct(
+    "botik-hyaluronic-serum",
+    "Botik Sérum de Alta Potência Ácido Hialurônico",
+    "Botik High-Potency Hyaluronic Acid Serum",
+    "facial",
+    "Botik Ácido Hialurônico",
+    "Sérum Facial",
+    "Facial Serum",
+    "30 ml",
+    "77129",
+    "https://paradea.it/cdn/shop/files/o-boticario-botik-serum-acido-hialuronico-siero-viso-con-acido-ialuronico-30ml-o-boticario-41287705.png?v=1751143250&width=1000"
+  ),
+  _botiProduct(
+    "botik-hyaluronic-eye-cream",
+    "Botik Creme Concentrado para Área dos Olhos Ácido Hialurônico e Cafeína",
+    "Botik Hyaluronic Acid and Caffeine Eye Cream",
+    "facial",
+    "Botik Ácido Hialurônico",
+    "Creme para Área dos Olhos",
+    "Eye Cream",
+    "15 g",
+    "04509",
+    "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lz0vfgpb5xmh9e"
+  ),
+  _botiProduct(
+    "cuide-se-bem-boa-noite-lotion",
+    "Cuide-se Bem Boa Noite Loção Desodorante Hidratante",
+    "Cuide-se Bem Good Night Body Lotion",
+    "body",
+    "Cuide-se Bem Boa Noite",
+    "Loção Hidratante Corporal",
+    "Body Lotion",
+    "400 ml",
+    "49878",
+    "https://primpypoint.net/20713-thickbox_default/o-boticario-cuide-se-bem-locao-hidratante-boa-noite-400ml.jpg"
+  ),
+  _botiProduct(
+    "cuide-se-bem-boa-noite-body-splash",
+    "Cuide-se Bem Boa Noite Body Splash Desodorante Colônia",
+    "Cuide-se Bem Good Night Body Splash",
+    "body",
+    "Cuide-se Bem Boa Noite",
+    "Body Splash",
+    "Body Splash",
+    "200 ml",
+    "51123",
+    "https://down-br.img.susercontent.com/file/br-11134207-7r98o-m3qr7m9q19y434"
+  ),
+  _botiProduct(
+    "cuide-se-bem-boa-noite-exfoliating-soap",
+    "Cuide-se Bem Boa Noite Sabonete Líquido Esfoliante",
+    "Cuide-se Bem Good Night Exfoliating Body Wash",
+    "body",
+    "Cuide-se Bem Boa Noite",
+    "Sabonete Líquido Esfoliante",
+    "Exfoliating Body Wash",
+    "200 ml",
+    "51122",
+    "https://a-static.mlcdn.com.br/800x560/sabonete-liquido-esfoliante-boa-noite-200ml-o-boticario-o-boticario/niramodasepresentes/fac46bd4360811ed97ac4201ac185019/9be652e812e7b4a9fe19eeb20995213b.jpeg"
+  ),
+  _botiProduct(
+    "lily-body-oil",
+    "Lily Óleo Perfumado Desodorante Corporal",
+    "Lily Perfumed Body Oil",
+    "body",
+    "Lily",
+    "Óleo Perfumado Corporal",
+    "Perfumed Body Oil",
+    "150 ml",
+    "48181",
+    "https://idabeauty.co.uk/cdn/shop/files/oleo-perfumado-desodorante-corporal-lily-150ml.avif?v=1770642191&width=1024"
+  ),
+  _botiProduct(
+    "lily-gardenia-edp",
+    "Lily Gardénia Eau de Parfum",
+    "Lily Gardenia Eau de Parfum",
+    "perfumery",
+    "Lily Gardénia",
+    "Eau de Parfum",
+    "Eau de Parfum",
+    "75 ml",
+    "55363",
+    "https://down-br.img.susercontent.com/file/br-11134207-7r98o-m1skg4y4f6g893"
+  )
+);
+const BROKEN_IMAGE_FIXES_220 = {
+  "cuide-se-bem-boa-noite-lotion": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-mdc65qt2k3eac1",
+  "botik-hyaluronic-eye-cream": "https://a-static.mlcdn.com.br/%7Bw%7Dx%7Bh%7D/hialu-cafeina-botik-creme-concentrado-o-boticario-15-g-boticario/werneroportunidades/11025276140/245da9e549dcb43077f8678cd35f2e00.jpeg",
+  "cuide-se-bem-boa-noite-body-splash": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-m71kfmotd1t37c",
+  "lily-gardenia-edp": "https://a-static.mlcdn.com.br/%7Bw%7Dx%7Bh%7D/lily-gardenia-eau-de-parfum-75ml-o-boticario/mauracosmeticos/2317/ab7a0743c6d21f2f3636991cd519e069.jpeg"
+};
+applyImageFixes(BROKEN_IMAGE_FIXES_220, true);
+PRODUCTS.push(
+  _botiProduct(
+    "nativa-spa-jasmim-sambac-body-splash",
+    "Nativa SPA Jasmim Sambac Body Splash Desodorante Colônia",
+    "Nativa SPA Jasmim Sambac Body Splash",
+    "body",
+    "Nativa SPA Jasmim Sambac",
+    "Body Splash",
+    "Body Splash",
+    "200 ml",
+    "62849",
+    "https://down-br.img.susercontent.com/file/br-11134207-7r98o-m4j8f8aw8h0j25"
+  ),
+  _botiProduct(
+    "nativa-spa-uva-merlot-body-splash",
+    "Nativa SPA Uva Merlot Body Splash Desodorante Colônia",
+    "Nativa SPA Uva Merlot Body Splash",
+    "body",
+    "Nativa SPA Uva Merlot",
+    "Body Splash",
+    "Body Splash",
+    "200 ml",
+    "62393",
+    "https://down-br.img.susercontent.com/file/br-11134207-7r98o-m1lxfqiwm16h16"
+  ),
+  _botiProduct(
+    "nativa-spa-uva-merlot-oil",
+    "Nativa SPA Uva Merlot Óleo Bifásico Hidratante Desodorante Corporal",
+    "Nativa SPA Uva Merlot Biphasic Moisturising Body Oil",
+    "body",
+    "Nativa SPA Uva Merlot",
+    "Óleo Corporal",
+    "Body Oil",
+    "200 ml",
+    "62392",
+    "https://down-br.img.susercontent.com/file/br-11134207-7r98o-m2txv2e2k8u93c"
+  ),
+  _botiProduct(
+    "nativa-spa-quinoa-amendoas-oil",
+    "Nativa SPA Quinoa & Amêndoas Óleo Desodorante Hidratante Corporal",
+    "Nativa SPA Quinoa & Almonds Moisturising Body Oil",
+    "body",
+    "Nativa SPA Quinoa & Amêndoas",
+    "Óleo Corporal",
+    "Body Oil",
+    "200 ml",
+    "63677",
+    "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/63677-02.jpg?v=1774968358"
+  ),
+  _botiProduct(
+    "nativa-spa-ameixa-negra-refill",
+    "Nativa SPA Ameixa Negra Refil Loção Hidratante Corporal",
+    "Nativa SPA Black Plum Body Lotion Refill",
+    "body",
+    "Nativa SPA Ameixa Negra",
+    "Refil Loção Hidratante",
+    "Body Lotion Refill",
+    "350 ml",
+    "62866",
+    "https://down-br.img.susercontent.com/file/br-11134207-7r98o-m6b7n21d7gpn35"
+  ),
+  _botiProduct(
+    "cuide-se-bem-feira-banana-lotion",
+    "Cuide-se Bem Feira Banana Loção Desodorante Hidratante Corporal",
+    "Cuide-se Bem Feira Banana Body Lotion",
+    "body",
+    "Cuide-se Bem Feira",
+    "Loção Hidratante Corporal",
+    "Body Lotion",
+    "400 ml",
+    "59029",
+    "https://down-br.img.susercontent.com/file/br-11134207-7r98o-m8cm5ly4qsvh32"
+  ),
+  _botiProduct(
+    "cuide-se-bem-cereja-livre-soap",
+    "Cuide-se Bem Cereja Livre Sabonete em Barra",
+    "Cuide-se Bem Cereja Livre Bar Soap",
+    "body",
+    "Cuide-se Bem Cereja Livre",
+    "Sabonete em Barra",
+    "Bar Soap",
+    "2 × 80 g",
+    "58971",
+    "https://down-br.img.susercontent.com/file/br-11134207-7r98o-m7m4d5d3gk9v12"
+  ),
+  _botiProduct(
+    "malbec-pure-gold",
+    "Malbec Pure Gold Desodorante Colônia",
+    "Malbec Pure Gold Eau de Toilette",
+    "perfumery",
+    "Malbec",
+    "Desodorante Colônia",
+    "Eau de Toilette",
+    "100 ml",
+    "63945",
+    "https://down-br.img.susercontent.com/file/br-11134207-7r98o-m5jv3l79xj8n47"
+  ),
+  _botiProduct(
+    "malbec-signature",
+    "Malbec Signature Eau de Parfum",
+    "Malbec Signature Eau de Parfum",
+    "perfumery",
+    "Malbec",
+    "Eau de Parfum",
+    "Eau de Parfum",
+    "90 ml",
+    "48147",
+    "https://down-br.img.susercontent.com/file/br-11134207-7r98o-m3y7v8j8f7jg29"
+  ),
+  _botiProduct(
+    "nativa-spa-lilac-body-splash",
+    "Nativa SPA Lilac Body Splash Desodorante Colônia",
+    "Nativa SPA Lilac Body Splash",
+    "body",
+    "Nativa SPA Lilac",
+    "Body Splash",
+    "Body Splash",
+    "200 ml",
+    "53355",
+    "https://static.wixstatic.com/media/295529_475af0979b6e456bbb788ef3415da8f0~mv2.jpg/v1/fill/w_800,h_800,al_c,q_85,enc_avif,quality_auto/295529_475af0979b6e456bbb788ef3415da8f0~mv2.jpg"
+  )
+);
+const BROKEN_IMAGE_FIXES_230 = {
+  "malbec-signature": "https://res.cloudinary.com/beleza-na-web/image/upload/w_1500%2Cf_auto%2Cfl_progressive%2Cq_auto%3Aeco%2Cw_1800%2Cc_limit/e_trim/v1/imagens/product/B84385/c5cb750b-e228-43fe-b57a-b0b592ee1967-bot-84385-malbec-signature-maos-05.jpg",
+  "nativa-spa-uva-merlot-oil": "https://beauteflorale.com/cdn/shop/files/oboticario-oleo-bifasico-hidratante-corporal-uva-merlot-nativa-spa-1197613489.jpg?v=1760494924",
+  "malbec-pure-gold": "https://res.cloudinary.com/beleza-na-web/image/upload/w_1500%2Cf_auto%2Cfl_progressive%2Cq_auto%3Abest/v1/imagens/product/B58506/382f626b-a17d-4086-a779-0e832f23f2fc-bot-58506-malbec-pure-gold-desodorante-colonia-01.jpg",
+  "nativa-spa-uva-merlot-body-splash": "https://cdn.shopify.com/s/files/1/0632/5511/8040/files/BT_COL_C1025_PDP_PRODUTOS_CICLO_NSPA_UVAMERLOT_OLEO_0BT_COL_C1025_PDP_PRODUTOS_CICLO_NSPA_UVAMERLOT_SPLASH_01.jpg?v=1762001441",
+  "nativa-spa-ameixa-negra-refill": "https://photos.enjoei.com.br/refil-hidratante-corporal-nativa-spa-ameixa-negra-o-boticario-350ml/1200xN/czM6Ly9waG90b3MuZW5qb2VpLmNvbS5ici9wcm9kdWN0cy8xMDI4NDUzNi84YjMwNzY5ZTE1MDczNzUwODc1YzUzNDQ2MGVlZGNkYS5qcGc",
+  "nativa-spa-jasmim-sambac-body-splash": "https://www.brasileuquero.com/cdn/shop/products/7891033820528.png?v=1687211117",
+  "cuide-se-bem-cereja-livre-soap": "https://a-static.mlcdn.com.br/%7Bw%7Dx%7Bh%7D/sabonete-em-barra-cuide-se-bem-cereja-livre-2-unidades-de-80g-cada-cod-b83057-o-boticario/aconsultoriaemksa/3691c0fc9f6911edbf6f4201ac185019/fe9b7906d3f47d14d6681a96ba0707aa.jpeg",
+  "cuide-se-bem-feira-banana-lotion": "https://res.cloudinary.com/beleza-na-web/image/upload/w_1500%2Cf_auto%2Cfl_progressive%2Cq_auto%3Abest/v1/imagens/product/B53686/1621087b-2c0d-416d-b475-a103c68eb587-bot-cuide-se-bem-feira-banana-creme-hidratante-400ml-maos-03.jpg"
+};
+applyImageFixes(BROKEN_IMAGE_FIXES_230, true);
+const jasmimProduct = PRODUCTS.find(
+  p => p.id === "nativa-spa-jasmim-sambac-body-splash"
+);
+if (jasmimProduct) {
+  jasmimProduct.image =
+    "https://carrefourbr.vtexassets.com/arquivos/ids/161884410/286d06e202e442a29b4b7ba7811ad236.jpg?v=638545102909330000";
+}
+PRODUCTS.push(
+  _botiProduct(
+    "make-b-blush-rubor-mini",
+    "Make B. Blush em Pó Compacto Rubor",
+    "Make B. Compact Powder Blush Rubor",
+    "makeup",
+    "Make B.",
+    "Blush em Pó",
+    "Powder Blush",
+    "1,5 g",
+    "87771",
+    "https://down-br.img.susercontent.com/file/br-11134207-81zu3-mkx4cnflm51c84"
+  ),
+  _botiProduct(
+    "make-b-mascara-volume-extremo",
+    "Make B. Máscara de Cílios Volume Extremo",
+    "Make B. Extreme Volume Mascara",
+    "makeup",
+    "Make B.",
+    "Máscara de Cílios",
+    "Mascara",
+    "10 ml",
+    "52618",
+    "https://m.magazineluiza.com.br/a-static/420x420/make-b-mascara-de-cilios-volume-extremo-5g-o-boticario/ramirostore/2b18b9061c8011f08ccc42010a480843/775d76c31fd65ca279360ef84f4425c1.jpeg"
+  ),
+  _botiProduct(
+    "botik-mandelic-salicylic-cleanser",
+    "Botik Gel de Limpeza Facial Micelar Ácido Mandélico + Salicílico",
+    "Botik Mandelic + Salicylic Acid Micellar Facial Cleanser",
+    "facial",
+    "Botik",
+    "Gel de Limpeza Facial",
+    "Facial Cleansing Gel",
+    "150 g",
+    "87491",
+    "https://res.cloudinary.com/beleza-na-web/image/upload/w_1500,f_avif,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B87491/9b03d476-474b-414a-bd61-d29837b28ba4-bot-87491-botik-gel-limpeza-salicicilico-01.jpg"
+  ),
+  _botiProduct(
+    "botik-mandelic-salicylic-acqua-gel",
+    "Botik Acqua Gel Hidratante Antioleosidade Ácido Mandélico + Salicílico",
+    "Botik Mandelic + Salicylic Acid Anti-Oil Facial Gel",
+    "facial",
+    "Botik",
+    "Acqua Gel Hidratante",
+    "Facial Moisturising Gel",
+    "50 g",
+    "11398",
+    "https://cdn.shopify.com/s/files/1/0632/5511/8040/files/62942-1-BOTIK-ACQ-GEL-H-F-ANT-AC-MAN-SAL-50g-EXP.jpg?v=1706707775"
+  ),
+  _botiProduct(
+    "boti-sun-acqua-fluido-spf70",
+    "Boti.Sun Protetor Solar Facial Antioleosidade FPS 70 Acqua Fluido",
+    "Boti.Sun Anti-Oil Facial Sunscreen SPF 70 Acqua Fluid",
+    "sun",
+    "Boti.Sun",
+    "Protetor Solar Facial",
+    "Facial Sunscreen",
+    "40 ml",
+    "47599",
+    "https://cdn.shopify.com/s/files/1/0632/5511/8040/files/47599-1-BOTISUN-ACQUA-FLUIDO-PROTECTOR-SOLAR-DIARIO-ANTIOLEOSIDAD-FPS-70-40ML.jpg?v=1685457482"
+  ),
+  _botiProduct(
+    "boti-sun-facial-cor-spf70",
+    "Boti.Sun Protetor Solar Facial com Cor FPS 70",
+    "Boti.Sun Tinted Facial Sunscreen SPF 70",
+    "sun",
+    "Boti.Sun",
+    "Protetor Solar Facial com Cor",
+    "Tinted Facial Sunscreen",
+    "40 ml",
+    null,
+    "https://cdn.shopify.com/s/files/1/0632/5511/8040/files/47599-1-BOTISUN-ACQUA-FLUIDO-PROTECTOR-SOLAR-DIARIO-ANTIOLEOSIDAD-FPS-70-40ML.jpg?v=1685457482",
+    [
+      { name: "5.0", code: null },
+      { name: "7.0", code: null }
+    ]
+  ),
+  _botiProduct(
+    "boti-baby-liquid-glycerin-soap-400",
+    "Boti Baby Sabonete Líquido de Glicerina",
+    "Boti Baby Glycerin Liquid Soap",
+    "baby",
+    "Boti Baby",
+    "Sabonete Líquido",
+    "Liquid Soap",
+    "400 ml",
+    "52025",
+    "https://down-br.img.susercontent.com/file/br-11134207-7r98o-log7nv1f4l6v92"
+  ),
+  _botiProduct(
+    "malbec-club-shaving-cream",
+    "Malbec Club Creme para Barbear",
+    "Malbec Club Shaving Cream",
+    "male",
+    "Malbec Club",
+    "Creme para Barbear",
+    "Shaving Cream",
+    "150 g",
+    null,
+    "https://cf.shopee.com.br/file/170c53a8ebb978d69968d155adaaa00b"
+  ),
+  _botiProduct(
+    "match-oleosidade-controlada-shampoo",
+    "Match Oleosidade Controlada Shampoo",
+    "Match Oil Control Shampoo",
+    "hair",
+    "Match Oleosidade Controlada",
+    "Shampoo",
+    "Shampoo",
+    "300 ml",
+    "83697",
+    "https://cdn.shopify.com/s/files/1/0632/5511/8040/files/83697-1-MATCH-SHAMPOO-OL-CONTROLADA-300ml.jpg?v=1719584330"
+  ),
+  _botiProduct(
+    "make-b-bb-cream-sense",
+    "Make B. BB Cream Multiprotetor FPS 40 Sense",
+    "Make B. Sense Multi-Protection BB Cream SPF 40",
+    "makeup",
+    "Make B.",
+    "BB Cream",
+    "BB Cream",
+    "25 g",
+    null,
+    "https://down-br.img.susercontent.com/file/br-11134207-7r98o-m8nrkcd0lhxf1e"
+  )
+);
+PRODUCTS.push(
+  _botiProduct(
+    "botik-retinol-serum-30",
+    "Botik Sérum Facial de Alta Potência Retinol Puro",
+    "Botik Pure Retinol High-Potency Facial Serum",
+    "facial",
+    "Botik Retinol Puro",
+    "Sérum Facial",
+    "Facial Serum",
+    "30 ml",
+    "83550",
+    "https://res.cloudinary.com/beleza-na-web/image/upload/w_1500%2Cf_avif%2Cfl_progressive%2Cq_auto%3Aeco%2Cw_800/v1/imagens/products/B83550/BOTIK-SRUM-RETINOL-PURO-30ml_B83550_.jpg"
+  ),
+  _botiProduct(
+    "botik-retinol-gel-cream",
+    "Botik Gel Creme Redutor de Rugas Retinol Puro",
+    "Botik Pure Retinol Wrinkle-Reducing Gel Cream",
+    "facial",
+    "Botik Retinol Puro",
+    "Gel Creme Facial",
+    "Facial Gel Cream",
+    "30 g",
+    "88471",
+    "https://res.cloudinary.com/beleza-na-web/image/upload/w_1500%2Cf_avif%2Cfl_progressive%2Cq_auto%3Aeco%2Cw_800/v1/imagens/product/B88471/968ae82c-775d-47be-9488-2ca5a4802af7-botik-gel-crem-redut-rug-retin-puro-b83551.jpg"
+  ),
+  _botiProduct(
+    "make-b-primer-salicylic",
+    "Make B. Primer Antioleosidade Mate Salicylic",
+    "Make B. Matte Salicylic Oil-Control Primer",
+    "makeup",
+    "Make B. Mate Salicylic",
+    "Primer Facial",
+    "Facial Primer",
+    "30 g",
+    "05546",
+    "https://res.cloudinary.com/beleza-na-web/image/upload/w_1500%2Cf_avif%2Cfl_progressive%2Cq_auto%3Aeco%2Cw_800/v1/imagens/products/B05546/MakeB_Primer_B05546.jpg"
+  ),
+  _botiProduct(
+    "make-b-hyaluronic-lipstick-nude",
+    "Make B. Batom Preenchedor Marrom Nude Chic Hyaluronic",
+    "Make B. Hyaluronic Plumping Lipstick Nude Chic",
+    "makeup",
+    "Make B. Hyaluronic",
+    "Batom",
+    "Lipstick",
+    "3,4 g",
+    "55982",
+    "https://res.cloudinary.com/beleza-na-web/image/upload/w_1500%2Cf_avif%2Cfl_progressive%2Cq_auto%3Aeco%2Cw_800/v1/imagens/product/B55982/77924f63-708b-4aea-92a7-e2b3b924edaa-bot-55982-make-b-hyaluronic-batom-nude-chic-frontal-01.jpg"
+  ),
+  _botiProduct(
+    "make-b-gloss-rose-lover",
+    "Make B. Gloss Labial Rose Lover",
+    "Make B. Rose Lover Lip Gloss",
+    "makeup",
+    "Make B.",
+    "Gloss Labial",
+    "Lip Gloss",
+    "5 ml",
+    "51173",
+    "https://res.cloudinary.com/beleza-na-web/image/upload/w_1500%2Cf_avif%2Cfl_progressive%2Cq_auto%3Aeco%2Cw_800/v1/imagens/products/B51173/MAKE_B_GLOSS_LABIAL_Rose_Lover_B51173.jpg"
+  ),
+  _botiProduct(
+    "boti-baby-shampoo-400",
+    "Boti Baby Shampoo Suave",
+    "Boti Baby Gentle Shampoo",
+    "baby",
+    "Boti Baby",
+    "Shampoo",
+    "Shampoo",
+    "400 ml",
+    "52018",
+    "https://res.cloudinary.com/beleza-na-web/image/upload/w_1500%2Cf_avif%2Cfl_progressive%2Cq_auto%3Aeco%2Cw_800/v1/imagens/product/B52018/8ae1eef5-21d9-4aad-aeca-72678185cfdb-52018-bot-baby-shampoo-suave-frontal-01.jpg"
+  ),
+  _botiProduct(
+    "boti-baby-conditioner-400",
+    "Boti Baby Condicionador Suave",
+    "Boti Baby Gentle Conditioner",
+    "baby",
+    "Boti Baby",
+    "Condicionador",
+    "Conditioner",
+    "400 ml",
+    "51803",
+    "https://res.cloudinary.com/beleza-na-web/image/upload/w_1500%2Cf_avif%2Cfl_progressive%2Cq_auto%3Aeco%2Cw_800/v1/imagens/product/B51803/ac052be1-5022-4030-8035-b2ff1b9338e6-bot-51803-maos.jpg"
+  ),
+  _botiProduct(
+    "boti-baby-colonia-sol",
+    "Boti Baby Colônia do Sol",
+    "Boti Baby Colônia do Sol",
+    "baby",
+    "Boti Baby",
+    "Colônia",
+    "Cologne",
+    "100 ml",
+    "51802",
+    "https://res.cloudinary.com/beleza-na-web/image/upload/w_1500%2Cf_avif%2Cfl_progressive%2Cq_auto%3Aeco%2Cw_800/v1/imagens/product/B51802/53dece14-2e20-4824-8e58-56a02aa82e0f-bot-51802-baby-colonia-do-sol-frontal-01.jpg"
+  ),
+  _botiProduct(
+    "malbec-aerosol",
+    "Malbec Desodorante Antitranspirante Aerossol",
+    "Malbec Antiperspirant Aerosol Deodorant",
+    "male",
+    "Malbec",
+    "Desodorante Antitranspirante Aerossol",
+    "Antiperspirant Aerosol Deodorant",
+    "75 g / 125 ml",
+    "49362",
+    "https://res.cloudinary.com/beleza-na-web/image/upload/w_1500%2Cf_avif%2Cfl_progressive%2Cq_auto%3Aeco%2Cw_800/v1/imagens/products/B49362/Malbec_Antitransp_Aerosol_B49362.jpg"
+  ),
+  _botiProduct(
+    "malbec-x-aerosol",
+    "Malbec X Desodorante Antitranspirante Aerossol",
+    "Malbec X Antiperspirant Aerosol Deodorant",
+    "male",
+    "Malbec X",
+    "Desodorante Antitranspirante Aerossol",
+    "Antiperspirant Aerosol Deodorant",
+    "75 g / 125 ml",
+    "53074",
+    "https://res.cloudinary.com/beleza-na-web/image/upload/w_1500%2Cf_avif%2Cfl_progressive%2Cq_auto%3Aeco%2Cw_800/v1/imagens/product/B53074/039bbb65-65e3-4aac-8d96-b0ed9b6d4c1b-o-boticario-malbec-x-antitranspirante-aerossol-desodorante-spray-masculino-125ml.png"
+  )
+);
+const FINAL_PRODUCT_OVERRIDES = {
+  "make-b-bb-cream-sense": {
+    code: "52795",
+    image: "https://a-static.mlcdn.com.br/%7Bw%7Dx%7Bh%7D/base-de-maquiagem-em-creme-o-boticario-make-b-bb-cream-multiprotetor-fps-40-make-b-sense-tom-cor-3-220-a-260-25m-boticario/maryjohnbeauty/52798/4eb4615f79d0742018ddd21aee60d469.jpeg"
+  }
+};
+PRODUCTS.forEach((product) => {
+  const override = FINAL_PRODUCT_OVERRIDES[product.id];
+  if (override) {
+    if (override.code) product.code = override.code;
+    if (override.image) product.image = override.image;
+  }
+});
+PRODUCTS.push(
+  _botiProduct(
+    "malbec-oil-barba",
+    "Malbec Óleo para Barba",
+    "Malbec Beard Oil",
+    "male",
+    "Malbec",
+    "Óleo para Barba",
+    "Beard Oil",
+    "25 ml",
+    "59030",
+    "https://down-br.img.susercontent.com/file/sg-11134201-7ra1p-mbe5pkk8m1r7a8"
+  ),
+  _botiProduct(
+    "malbec-shampoo-barba",
+    "Malbec Shampoo para Barba",
+    "Malbec Beard Shampoo",
+    "male",
+    "Malbec",
+    "Shampoo para Barba",
+    "Beard Shampoo",
+    "100 ml",
+    "59028",
+    "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/59028.jpg?v=1739352822"
+  ),
+  _botiProduct(
+    "malbec-sensitive-shaving-foam",
+    "Malbec Espuma para Barbear Sensitive",
+    "Malbec Sensitive Shaving Foam",
+    "male",
+    "Malbec",
+    "Espuma para Barbear",
+    "Shaving Foam",
+    "190 g / 200 ml",
+    "89782",
+    "https://images.tcdn.com.br/img/img_prod/1241437/o_boticario_malbec_club_sensitive_580000373_1_7e044dc6d6a26a51e29c751acba33134.jpg"
+  ),
+  _botiProduct(
+    "quasar-rush-aerosol",
+    "Quasar Rush Desodorante Antitranspirante Aerossol",
+    "Quasar Rush Antiperspirant Aerosol Deodorant",
+    "male",
+    "Quasar Rush",
+    "Desodorante Antitranspirante Aerossol",
+    "Antiperspirant Aerosol Deodorant",
+    "75 g / 125 ml",
+    "50726",
+    "https://acdn-us.mitiendanube.com/stores/004/297/279/products/rush-72d5598b824688924617664052205860-480-0.webp"
+  ),
+  _botiProduct(
+    "boti-baby-colonia-lua",
+    "Boti Baby Colônia da Lua",
+    "Boti Baby Moon Cologne",
+    "baby",
+    "Boti Baby",
+    "Colônia",
+    "Cologne",
+    "100 ml",
+    "59132",
+    "https://res.cloudinary.com/beleza-na-web/image/upload/w_1500,f_auto,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B59132/cbb657db-33a8-4346-a809-4dd8f0df35ba-bot-59132-boti-baby-colonia-da-lua-ambientada-03.jpg"
+  ),
+  _botiProduct(
+    "boti-baby-lua-lotion",
+    "Boti Baby da Lua Loção Corporal Banho e Pós-Banho",
+    "Boti Baby Moon Bath and After-Bath Body Lotion",
+    "baby",
+    "Boti Baby",
+    "Loção Corporal Banho e Pós-Banho",
+    "Bath and After-Bath Body Lotion",
+    "200 ml",
+    "59845",
+    "https://res.cloudinary.com/beleza-na-web/image/upload/w_1500,f_auto,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B59845/0038bdd0-fbcc-4b24-a7ed-2dd5180916be-bot-59845-boti-baby-da-lua-locao-pos-banho-frontal-01.jpg"
+  ),
+  _botiProduct(
+    "boti-baby-lua-bath-foam",
+    "Boti Baby da Lua Espuma de Banho",
+    "Boti Baby Moon Bath Foam",
+    "baby",
+    "Boti Baby",
+    "Espuma de Banho",
+    "Bath Foam",
+    "150 ml",
+    "59957",
+    "https://res.cloudinary.com/beleza-na-web/image/upload/w_1500,f_auto,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B59957/69418fa5-9526-4865-a514-6c74be280a6b-card-1500x1500-1305.jpg"
+  ),
+  _botiProduct(
+    "boti-baby-bath-lotion-400",
+    "Boti Baby Loção Hidratante Banho e Pós-Banho",
+    "Boti Baby Moisturising Bath and After-Bath Lotion",
+    "baby",
+    "Boti Baby",
+    "Loção Hidratante",
+    "Moisturising Lotion",
+    "400 ml",
+    "52023",
+    "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lpsdyig3fti7ff"
+  ),
+  _botiProduct(
+    "boti-sun-kids-spf70",
+    "Boti.Sun Protetor Solar Infantil Kids FPS 70",
+    "Boti.Sun Kids Sunscreen SPF 70",
+    "sun",
+    "Boti.Sun Kids",
+    "Protetor Solar Infantil",
+    "Kids Sunscreen",
+    "120 g",
+    "55930",
+    "https://cdn.shopify.com/s/files/1/0632/5511/8040/files/BT_COL_C0225_PDP_PRODUTOS_BOTISUN_KIDS_70_02.jpg?v=1773065755"
+  ),
+  _botiProduct(
+    "boti-sun-after-sun-acqua-gel",
+    "Boti.Sun Gel Hidratante Pós-Sol Acqua Gel",
+    "Boti.Sun After-Sun Moisturising Acqua Gel",
+    "sun",
+    "Boti.Sun",
+    "Gel Hidratante Pós-Sol",
+    "After-Sun Moisturising Gel",
+    "120 g",
+    "47596",
+    "https://cdn.shopify.com/s/files/1/0632/5511/8040/files/47596-1-BOTISUN-GEL-HIDRATANTE-POS-SOL-ACQUA-GEL-120G_1_-min.jpg?v=1750284043"
+  ),
+  _botiProduct(
+    "boti-sun-ultra-fluid-spf30",
+    "Boti.Sun Protetor Solar Facial Antioxidante FPS 30 Ultra Fluido",
+    "Boti.Sun Antioxidant Ultra-Fluid Facial Sunscreen SPF 30",
+    "sun",
+    "Boti.Sun",
+    "Protetor Solar Facial",
+    "Facial Sunscreen",
+    "40 ml",
+    "50396",
+    "https://down-br.img.susercontent.com/file/br-11134207-7r98o-m1yhbxxw8ctg35"
+  ),
+  _botiProduct(
+    "boti-sun-body-spray-spf50",
+    "Boti.Sun Spray Protetor Solar Corporal FPS 50 Acqua Fluido",
+    "Boti.Sun Acqua Fluid Body Sunscreen Spray SPF 50",
+    "sun",
+    "Boti.Sun",
+    "Spray Protetor Solar Corporal",
+    "Body Sunscreen Spray",
+    "180 ml",
+    "47960",
+    "https://www.natureza.es/cdn/shop/files/10108_800x_6b19554d-3074-4439-9afc-b0eec8b6b43d.webp?v=1723106445"
+  ),
+  _botiProduct(
+    "boti-sun-body-spf70-200",
+    "Boti.Sun Protetor Solar Corporal FPS 70",
+    "Boti.Sun Body Sunscreen SPF 70",
+    "sun",
+    "Boti.Sun",
+    "Protetor Solar Corporal",
+    "Body Sunscreen",
+    "200 g",
+    "52342",
+    "https://cdn.dooca.store/165665/products/boticario-pronta-entrega-o-boticario-protetor-solar-corporal-fps70-boti-sun-200g-1726514379179_450x600%2Bfill_ffffff%2Bcrop_center.jpg?v=1739540040&webp=0"
+  ),
+  _botiProduct(
+    "botik-cica-multirepair-cream",
+    "Botik Creme Facial Multirreparador Calmante Cica, Pantenol e Ceramidas",
+    "Botik Cica, Panthenol and Ceramides Multi-Repair Facial Cream",
+    "facial",
+    "Botik Cica",
+    "Creme Facial Multirreparador",
+    "Multi-Repair Facial Cream",
+    "30 g",
+    "59876",
+    "https://images.tcdn.com.br/img/img_prod/1386576/creme_facial_cica_pantenol_e_ceramidas_30g_botik_2929_1_5bfb490bc44d99f3613215f20384a3b6.jpg"
+  ),
+  _botiProduct(
+    "botik-cica-lip-repair",
+    "Botik Reparador Labial Cica, Pantenol e Ceramidas",
+    "Botik Cica, Panthenol and Ceramides Lip Repair",
+    "facial",
+    "Botik Cica",
+    "Reparador Labial",
+    "Lip Repair",
+    "7,5 ml",
+    "84808",
+    "https://paradea.it/cdn/shop/files/BotikCicaPantenol_CeramidasReparadorLabial_2.jpg?v=1773401558&width=1000"
+  ),
+  _botiProduct(
+    "make-b-base-mate-salicylic",
+    "Make B. Base Líquida Efeito Mate Salicylic",
+    "Make B. Salicylic Matte Liquid Foundation",
+    "makeup",
+    "Make B. Mate Salicylic",
+    "Base Líquida",
+    "Liquid Foundation",
+    "30 g",
+    "90714",
+    "https://http2.mlstatic.com/D_Q_NP_2X_797733-MLB93576190632_102025-P.webp",
+    [
+      { name: "350F", code: null },
+      { name: "345N", code: null },
+      { name: "340Q", code: null },
+      { name: "335N", code: null },
+      { name: "330Q", code: null },
+      { name: "325F", code: null },
+      { name: "320N", code: null },
+      { name: "310Q", code: null },
+      { name: "300Q", code: null },
+      { name: "295Q", code: null },
+      { name: "290N", code: null },
+      { name: "285N", code: null },
+      { name: "280Q", code: null },
+      { name: "275N", code: null },
+      { name: "270Q", code: null },
+      { name: "265Q", code: null },
+      { name: "260N", code: null },
+      { name: "255Q", code: null },
+      { name: "250N", code: null },
+      { name: "245Q", code: null },
+      { name: "240F", code: null },
+      { name: "235N", code: null },
+      { name: "230N", code: null },
+      { name: "225N", code: null },
+      { name: "220Q", code: null },
+      { name: "215Q", code: null },
+      { name: "210Q", code: "90714" },
+      { name: "205N", code: null },
+      { name: "200N", code: null },
+      { name: "190Q", code: null },
+      { name: "185F", code: null },
+      { name: "180Q", code: null },
+      { name: "175N", code: null },
+      { name: "170Q", code: null },
+      { name: "160Q", code: null },
+      { name: "150Q", code: null },
+      { name: "140Q", code: null },
+      { name: "130Q", code: null },
+      { name: "120N", code: null },
+      { name: "110Q", code: null },
+      { name: "105N", code: null },
+      { name: "100F", code: null }
+    ]
+  ),
+  _botiProduct(
+    "make-b-base-hyaluronic-spf70",
+    "Make B. Base Líquida Protetora FPS 70 Hyaluronic",
+    "Make B. Hyaluronic Protective Liquid Foundation SPF 70",
+    "makeup",
+    "Make B. Hyaluronic",
+    "Base Líquida com FPS",
+    "SPF Liquid Foundation",
+    "30 ml",
+    "87797",
+    "https://http2.mlstatic.com/D_Q_NP_2X_850874-MLB91296143688_092025-P.webp",
+    [
+      { name: "345N", code: null },
+      { name: "340Q", code: null },
+      { name: "330Q", code: null },
+      { name: "300Q", code: null },
+      { name: "290N", code: null },
+      { name: "285N", code: null },
+      { name: "275N", code: null },
+      { name: "270Q", code: null },
+      { name: "260N", code: null },
+      { name: "250Q", code: null },
+      { name: "225N", code: null },
+      { name: "220Q", code: "87797" },
+      { name: "215Q", code: null },
+      { name: "210Q", code: null },
+      { name: "205N", code: null },
+      { name: "185F", code: null },
+      { name: "170Q", code: null },
+      { name: "140Q", code: null },
+      { name: "130Q", code: null },
+      { name: "120N", code: null }
+    ]
+  ),
+  _botiProduct(
+    "make-b-illuminating-powder-rose",
+    "Make B. Pó Compacto Facial Iluminador Rose",
+    "Make B. Rose Illuminating Face Powder",
+    "makeup",
+    "Make B.",
+    "Pó Compacto Iluminador",
+    "Illuminating Compact Powder",
+    "5,4 g",
+    "85668",
+    "https://bloomboxbo.com/cdn/shop/files/80729_1200x_79fb7489-6286-49dc-910f-4089f279e064.jpg?v=1767416390&width=3840"
+  )
+);
+PRODUCTS.push(
+  _botiProduct(
+    "boti-baby-shampoo-200",
+    "Boti Baby Shampoo Suave",
+    "Boti Baby Gentle Shampoo",
+    "baby",
+    "Boti Baby",
+    "Shampoo",
+    "Shampoo",
+    "200 ml",
+    "52019",
+    "https://www.miperfumeria.es/1048-large_default/boti-baby-champu-sin-lagrimas-200ml.jpg"
+  ),
+  _botiProduct(
+    "boti-baby-conditioner-200",
+    "Boti Baby Condicionador Suave",
+    "Boti Baby Gentle Conditioner",
+    "baby",
+    "Boti Baby",
+    "Condicionador",
+    "Conditioner",
+    "200 ml",
+    "51808",
+    "https://res.cloudinary.com/beleza-na-web/image/upload/w_1500%2Cf_avif%2Cfl_progressive%2Cq_auto%3Aeco%2Cw_800/v1/imagens/product/B51808/d1b2fd4d-da0f-4a1a-937a-e3ba452becce-51808-bot-baby-condicionador-suave-frontal-01.jpg"
+  ),
+  _botiProduct(
+    "boti-baby-liquid-soap-200",
+    "Boti Baby Sabonete Líquido de Glicerina",
+    "Boti Baby Glycerin Liquid Soap",
+    "baby",
+    "Boti Baby",
+    "Sabonete Líquido",
+    "Liquid Soap",
+    "200 ml",
+    "51801",
+    "https://down-br.img.susercontent.com/file/br-11134207-81z1k-mesoj52ir6kj79"
+  ),
+  _botiProduct(
+    "botik-vitamina-c-serum",
+    "Botik Vitamina C 10% Sérum de Alta Potência",
+    "Botik Vitamin C 10% High-Potency Serum",
+    "facial",
+    "Botik Vitamina C",
+    "Sérum Facial",
+    "Facial Serum",
+    "15 ml",
+    "53186",
+    "https://res.cloudinary.com/beleza-na-web/image/upload/w_1500%2Cf_avif%2Cfl_progressive%2Cq_auto%3Aeco%2Cw_800/v1/imagens/product/B53186/99784726-0662-4f73-b628-74da53e87f89-bot-53186-botik-vitamina-c-serum-frontal-01.jpg"
+  ),
+  _botiProduct(
+    "botik-vitamina-c-cream",
+    "Botik Vitamina C Creme Hidratante Antioxidante",
+    "Botik Vitamin C Antioxidant Moisturising Cream",
+    "facial",
+    "Botik Vitamina C",
+    "Creme Hidratante Facial",
+    "Facial Moisturiser",
+    "50 g",
+    "51468",
+    "https://down-br.img.susercontent.com/file/br-11134207-7r98o-maq4mosmr1jjc6"
+  ),
+  _botiProduct(
+    "boti-sun-facial-spf30-mini",
+    "Boti.Sun Protetor Solar Facial FPS 30",
+    "Boti.Sun Facial Sunscreen SPF 30",
+    "sun",
+    "Boti.Sun",
+    "Protetor Solar Facial",
+    "Facial Sunscreen",
+    "10 ml",
+    null,
+    "https://down-br.img.susercontent.com/file/br-11134207-7r98o-m2obimpannyd5c"
+  ),
+  _botiProduct(
+    "boti-sun-antissinais-spf70",
+    "Boti.Sun Protetor Solar Facial Antissinais FPS 70 Acqua Fluido",
+    "Boti.Sun Anti-Ageing Facial Sunscreen SPF 70 Acqua Fluid",
+    "sun",
+    "Boti.Sun",
+    "Protetor Solar Facial Antissinais",
+    "Anti-Ageing Facial Sunscreen",
+    "40 ml",
+    "47602",
+    "https://res.cloudinary.com/beleza-na-web/image/upload/w_1500%2Cf_avif%2Cfl_progressive%2Cq_auto%3Aeco%2Cw_800/v1/imagens/products/B47602/BotiSun_Antissinais_FPS70_40ml_B47602.jpg"
+  ),
+  _botiProduct(
+    "make-b-hyaluronic-invisible",
+    "Make B. Base Líquida Protetora Invisível FPS 70 Hyaluronic",
+    "Make B. Hyaluronic Invisible Protective Liquid Foundation SPF 70",
+    "makeup",
+    "Make B. Hyaluronic",
+    "Base Líquida Protetora",
+    "Protective Liquid Foundation",
+    "30 ml",
+    "87039",
+    "https://http2.mlstatic.com/make-b-base-protetora-hyaluronic-fps70-30-ml-escolha-a-cor-D_NQ_NP_701182-MLB32680898445_102019-F.jpg"
+  ),
+  _botiProduct(
+    "match-science-reconstruction-shampoo",
+    "Match Science Reconstrução Shampoo",
+    "Match Science Reconstruction Shampoo",
+    "hair",
+    "Match Science Reconstrução",
+    "Shampoo",
+    "Shampoo",
+    "300 ml",
+    null,
+    "https://paradea.it/cdn/shop/files/Match.ShampooScienceReconstrucao_1_06fdf450-aab1-44e9-8cc2-1dd06e9fcdd4.jpg?v=1754578792"
+  ),
+  _botiProduct(
+    "match-science-reconstruction-conditioner",
+    "Match Science Reconstrução Condicionador",
+    "Match Science Reconstruction Conditioner",
+    "hair",
+    "Match Science Reconstrução",
+    "Condicionador",
+    "Conditioner",
+    "280 ml",
+    "54897",
+    "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/Match_Reconstrucao_Condicionador.jpg?v=1736378997"
+  )
+);
+PRODUCTS.push(
+  _botiProduct(
+    "botik-resveratrol-silicio-cream",
+    "Botik Creme Nutritivo Firmador Resveratrol + Silício",
+    "Botik Resveratrol + Silicon Firming Nourishing Cream",
+    "facial",
+    "Botik",
+    "Creme Facial",
+    "Facial Cream",
+    "40 g",
+    "55407",
+    "https://res.cloudinary.com/beleza-na-web/image/upload/w_1500%2Cf_avif%2Cfl_progressive%2Cq_auto%3Aeco%2Cw_800/v1/imagens/product/B55407/a999f6ab-74ab-450f-81c9-c4f96ac1a467-bot-55407-botik-resveratrol-silicio-creme-nutritivo-frontal-01.jpg"
+  ),
+  _botiProduct(
+    "botik-hyaluronic-serum-mini",
+    "Botik Sérum Preenchedor de Rugas Ácido Hialurônico",
+    "Botik Hyaluronic Acid Wrinkle-Filling Serum",
+    "facial",
+    "Botik Ácido Hialurônico",
+    "Sérum Facial",
+    "Facial Serum",
+    "10 ml",
+    "89469",
+    "https://res.cloudinary.com/beleza-na-web/image/upload/w_1500%2Cf_avif%2Cfl_progressive%2Cq_auto%3Aeco%2Cw_800/v1/imagens/product/B89469/03978b19-32b8-40b7-871d-1efe59398c52-bt-89469.jpg"
+  ),
+  _botiProduct(
+    "botik-sunscreen-hyaluronic-spf80",
+    "Botik Protetor Solar Facial Fluido Ácido Hialurônico FPS 80",
+    "Botik Hyaluronic Acid Fluid Facial Sunscreen SPF 80",
+    "facial",
+    "Botik",
+    "Protetor Solar Facial",
+    "Facial Sunscreen",
+    "40 ml",
+    null,
+    "https://res.cloudinary.com/beleza-na-web/image/upload/w_1500,f_auto,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B86265/12afde17-3190-4f89-8671-a43fb57bcc12-bot-86265-botik-protetor-solar-facial-fps80-frontal-01.jpg"
+  ),
+  _botiProduct(
+    "make-b-matte-lipstick",
+    "Make B. Batom Mate",
+    "Make B. Matte Lipstick",
+    "makeup",
+    "Make B.",
+    "Batom",
+    "Lipstick",
+    "4 g",
+    "81624",
+    "https://res.cloudinary.com/beleza-na-web/image/upload/w_1500,f_auto,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B81624/127bdf26-c728-4970-a798-b635971969d7-bot-81624-make-b-batom-mate-hot-brown-frontal-01.jpg",
+    [
+      { name: "Hot Brown", code: "81624" },
+      { name: "Orange Fever", code: null },
+      { name: "Rose Fabulous", code: null },
+      { name: "Red Supreme", code: null },
+      { name: "Violet", code: null }
+    ]
+  ),
+  _botiProduct(
+    "make-b-micro-tint-balm",
+    "Make B. Micro Tint Balm Labial",
+    "Make B. Micro Tint Lip Balm",
+    "makeup",
+    "Make B.",
+    "Balm Labial",
+    "Lip Balm",
+    "3,6 g",
+    "51190",
+    "https://res.cloudinary.com/beleza-na-web/image/upload/w_1500,f_auto,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B51190/4fa473c4-af55-488d-a193-78ec79696836-bot-51190-make-b-micro-tint-rosewater-frontal-01.jpg",
+    [
+      { name: "Rosewater", code: "51190" },
+      { name: "Grape Wine", code: null }
+    ]
+  ),
+  _botiProduct(
+    "make-b-lip-chronology-night-mask",
+    "Make B. Balm Labial Noturno Lip Chronology Night Mask",
+    "Make B. Lip Chronology Night Mask",
+    "makeup",
+    "Make B.",
+    "Balm Labial Noturno",
+    "Night Lip Balm",
+    "9 g",
+    null,
+    "https://res.cloudinary.com/beleza-na-web/image/upload/w_1500,f_auto,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B54128/ffde3c73-bc92-4fa7-8444-790328065d65-bot-54128-make-b-lip-chronology-night-mask-frontal-01.jpg"
+  ),
+  _botiProduct(
+    "malbec-body-spray",
+    "Malbec Body Spray Desodorante",
+    "Malbec Deodorant Body Spray",
+    "male",
+    "Malbec",
+    "Body Spray",
+    "Body Spray",
+    "100 ml",
+    "48785",
+    "https://res.cloudinary.com/beleza-na-web/image/upload/w_1500,f_auto,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B48785/4ed330e3-6087-4c7a-86a1-7132de26de35-bot-48785-malbec-body-spray-frontal-01.jpg"
+  ),
+  _botiProduct(
+    "match-oleosidade-controlada-conditioner",
+    "Match Oleosidade Controlada Condicionador",
+    "Match Oil Control Conditioner",
+    "hair",
+    "Match Oleosidade Controlada",
+    "Condicionador",
+    "Conditioner",
+    "280 ml",
+    "83699",
+    "https://res.cloudinary.com/beleza-na-web/image/upload/w_1500%2Cf_avif%2Cfl_progressive%2Cq_auto%3Aeco%2Cw_800/v1/imagens/product/B83699/230507ab-8614-471e-b8c8-2f0dda36e05b-bot-83699-match-condicionador-oleosidade-controlada-frontal-01.jpg"
+  ),
+  _botiProduct(
+    "match-hidratacao-brilho-conditioner",
+    "Match Hidratação e Brilho Condicionador",
+    "Match Hydration and Shine Conditioner",
+    "hair",
+    "Match Hidratação e Brilho",
+    "Condicionador",
+    "Conditioner",
+    "280 ml",
+    null,
+    "https://res.cloudinary.com/beleza-na-web/image/upload/w_1500,f_auto,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B53645/7304df35-23ac-4382-b22a-c764a75cc6bf-bot-53645-match-condicionador-hidratacao-brilho-frontal-01.jpg"
+  ),
+  _botiProduct(
+    "boti-sun-facial-spf30-acqua",
+    "Boti.Sun Protetor Solar Facial Antioleosidade FPS 30 Acqua Fluido",
+    "Boti.Sun Anti-Oil Acqua Fluid Facial Sunscreen SPF 30",
+    "sun",
+    "Boti.Sun",
+    "Protetor Solar Facial",
+    "Facial Sunscreen",
+    "40 ml",
+    null,
+    "https://res.cloudinary.com/beleza-na-web/image/upload/w_1500,f_auto,fl_progressive,q_auto:eco,w_800/v1/imagens/product/B47598/bd15131b-d7cf-402d-b482-f191894647ab-bot-47598-boti-sun-fps30-frontal-01.jpg"
+  )
+);
+const BROKEN_IMAGE_FIXES_288 = {
+  "make-b-micro-tint-balm": {
+    code: "51190",
+    image: "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lz8cupwdr3itc4"
+  },
+  "boti-sun-facial-spf30-acqua": {
+    code: "47598",
+    image: "https://images.tcdn.com.br/img/img_prod/548128/protetor_solar_facial_antioleosidade_boti_sun_acqua_fluido_40ml_570_2_0203414f3c94fd71b2e4dd5d50031f82.jpg"
+  },
+  "match-hidratacao-brilho-conditioner": {
+    code: "90322",
+    image: "https://res.cloudinary.com/beleza-na-web/image/upload/w_1500%2Cf_auto%2Cfl_progressive%2Cq_auto%3Abest/v1/imagens/product/B82888/6915c7e6-baa4-42f2-ae80-3f6ff8f1d068-bot-82888-match-condicionador-hidratacao-brilho-frontal-01.jpg"
+  },
+  "make-b-matte-lipstick": {
+    code: "81624",
+    image: "https://res.cloudinary.com/beleza-na-web/image/upload/w_1500%2Cf_auto%2Cfl_progressive%2Cq_auto%3Abest/v1/imagens/products/B81624/Make-B_BT_Mate_Hot-Brw_B81624.jpg"
+  },
+  "malbec-body-spray": {
+    code: "48785",
+    image: "https://a-static.mlcdn.com.br/420x420/malbec-body-spray-desodorante-100ml/afperfumes/0e84915cffac11ef9b9a42010a4808f6/c2ea07b79c9e9436cc0f8ecb6614bc32.jpeg"
+  },
+  "make-b-lip-chronology-night-mask": {
+    code: "86166",
+    image: "https://res.cloudinary.com/beleza-na-web/image/upload/w_1500%2Cf_auto%2Cfl_progressive%2Cq_auto%3Abest/v1/imagens/product/B86166/d26f57bf-31c7-454e-a1eb-8180462d912f-bot-86166-make-b-balm-labial-selos-06.jpg"
+  },
+  "botik-sunscreen-hyaluronic-spf80": {
+    code: "53386",
+    image: "https://oboticariove.com/cdn/shop/files/Botik-80sku53386_600x.jpg?v=1752238385"
+  }
+};
+PRODUCTS.forEach((product) => {
+  const fix = BROKEN_IMAGE_FIXES_288[product.id];
+  if (fix) {
+    product.code = fix.code;
+    product.image = fix.image;
+  }
+});
+PRODUCTS.push(
+  _botiProduct(
+    "make-b-ultrablack-pencil",
+    "Make B. Lápis Para Olhos Ultrablack",
+    "Make B. Ultrablack Eye Pencil",
+    "makeup",
+    "Make B.",
+    "Lápis Para Olhos",
+    "Eye Pencil",
+    "1,2 g",
+    "55505",
+    "https://cdn.shopify.com/s/files/1/0632/5511/8040/files/BOT_55505_LAPIS_FRONTAL_01.jpg?v=1748459941"
+  ),
+  _botiProduct(
+    "make-b-liquid-eyeliner-black",
+    "Make B. Delineador Líquido Para Olhos Preto",
+    "Make B. Black Liquid Eyeliner",
+    "makeup",
+    "Make B.",
+    "Delineador Líquido",
+    "Liquid Eyeliner",
+    "5 ml",
+    "53427",
+    "https://cdn.shopify.com/s/files/1/0630/3029/6801/files/DELINEADORLIQUIDOPRETOMAKEB_ECOMM_IMAGEM02.jpg?v=1764633758"
+  ),
+  _botiProduct(
+    "make-b-scandal-lashes",
+    "Make B. Máscara de Cílios Scandal Lashes",
+    "Make B. Scandal Lashes Mascara",
+    "makeup",
+    "Make B.",
+    "Máscara de Cílios",
+    "Mascara",
+    "10 g",
+    "52619",
+    "https://res.cloudinary.com/beleza-na-web/image/upload/w_1500%2Cf_auto%2Cfl_progressive%2Cq_auto%3Abest/v1/imagens/products/B52619/52619_MAKE-B_MASCARA-DE-CILIOS_SCANDALL-LASHES_MAOS_SENSORIAL_4.jpg"
+  ),
+  _botiProduct(
+    "make-b-fine-tip-eyeliner-pen",
+    "Make B. Caneta Delineadora para Olhos Ponta Fina Preta",
+    "Make B. Fine-Tip Black Eyeliner Pen",
+    "makeup",
+    "Make B.",
+    "Caneta Delineadora",
+    "Eyeliner Pen",
+    "1,2 ml",
+    "76689",
+    "https://www.josikabeauty.com/cdn/shop/files/MALVISSIMA_2.png?v=1714644148"
+  ),
+  _botiProduct(
+    "make-b-retractable-eye-pencil-black",
+    "Make B. Lápis Retrátil para Olhos Preto",
+    "Make B. Retractable Black Eye Pencil",
+    "makeup",
+    "Make B.",
+    "Lápis Retrátil",
+    "Retractable Eye Pencil",
+    "1,2 g",
+    "27858",
+    "https://krolyc.co.mz/wp-content/uploads/2023/08/27858.jpg"
+  ),
+  _botiProduct(
+    "make-b-up-brow-medium",
+    "Make B. Caneta para Sobrancelha Microblading UP Brow Média",
+    "Make B. UP Brow Medium Microblading Pen",
+    "makeup",
+    "Make B.",
+    "Caneta para Sobrancelha",
+    "Eyebrow Pen",
+    "1 ml",
+    "75757",
+    "https://cdn.shopify.com/s/files/1/0632/5511/8040/products/75757_c1784e0a-e59d-456d-bbc7-7a60d6e74533.jpg?v=1675295518"
+  ),
+  _botiProduct(
+    "boti-baby-sol-bar-soap",
+    "Boti Baby Sabonete em Barra Sol",
+    "Boti Baby Sol Bar Soap",
+    "baby",
+    "Boti Baby",
+    "Sabonete em Barra",
+    "Bar Soap",
+    "2 × 85 g",
+    "70676",
+    "https://res.cloudinary.com/beleza-na-web/image/upload/w_800%2Ch_800%2Cf_auto%2Cfl_progressive%2Cq_auto%3Agood/v1/imagens/product/B70676/f7e0a33e-23a8-496d-a825-f5793c1c1bde-sabonete-em-barra-boti-baby-sol-2-unidades-85g.png"
+  ),
+  _botiProduct(
+    "quasar-aerosol",
+    "Quasar Desodorante Antitranspirante Aerossol",
+    "Quasar Antiperspirant Aerosol Deodorant",
+    "male",
+    "Quasar",
+    "Desodorante Antitranspirante Aerossol",
+    "Antiperspirant Aerosol Deodorant",
+    "75 g / 125 ml",
+    "28593",
+    "https://dcdn-us.mitiendanube.com/stores/002/832/629/products/qua121-32e3aaed3d32a870ef16867523710245-1024-1024.webp"
+  ),
+  _botiProduct(
+    "malbec-club-anticaspa",
+    "Malbec Club Shampoo Anticaspa",
+    "Malbec Club Anti-Dandruff Shampoo",
+    "male",
+    "Malbec Club",
+    "Shampoo Anticaspa",
+    "Anti-Dandruff Shampoo",
+    "250 ml",
+    "50210",
+    "https://down-br.img.susercontent.com/file/br-11134207-820mf-mmqgmwfykefb88"
+  ),
+  _botiProduct(
+    "botik-glycolic-acid-8-serum",
+    "Botik Ácido Glicólico 8% Sérum de Alta Potência",
+    "Botik Glycolic Acid 8% High-Potency Serum",
+    "facial",
+    "Botik Ácido Glicólico",
+    "Sérum Facial",
+    "Facial Serum",
+    "30 ml",
+    "87600",
+    "https://cdn.shopify.com/s/files/1/0632/5511/8040/files/83766_1-min.jpg?v=1751900041"
+  ),
+  _botiProduct(
+    "match-hidratacao-brilho-refill-shampoo",
+    "Match Hidratação e Brilho Refil Shampoo",
+    "Match Hydration and Shine Shampoo Refill",
+    "hair",
+    "Match Hidratação e Brilho",
+    "Refil Shampoo",
+    "Shampoo Refill",
+    "250 ml",
+    "83156",
+    "https://res.cloudinary.com/beleza-na-web/image/upload/w_1500%2Cf_auto%2Cfl_progressive%2Cq_auto%3Abest/v1/imagens/product/B83156/906680af-75c4-4814-a4e3-cbbc9f928f05-bot-83156-match-hidratacao-brilho-shampoo-refil-frontal-01.jpg"
+  ),
+  _botiProduct(
+    "match-hidratacao-brilho-refill-conditioner",
+    "Match Hidratação e Brilho Refil Condicionador",
+    "Match Hydration and Shine Conditioner Refill",
+    "hair",
+    "Match Hidratação e Brilho",
+    "Refil Condicionador",
+    "Conditioner Refill",
+    "250 ml",
+    "83140",
+    "https://res.cloudinary.com/beleza-na-web/image/upload/w_1500%2Cf_auto%2Cfl_progressive%2Cq_auto%3Abest/v1/imagens/product/B83140/b860279c-af45-4c1a-9346-b2ec85e0b713-bot-83140-match-hidratacao-brilho-condicionador-refil-frontal-01.jpg"
+  )
+);
+const FINAL_EYE_PENCIL_FIX = {
+  "make-b-retractable-eye-pencil-black": "https://images.tcdn.com.br/img/img_prod/1257126/lapis_retratil_para_olhos_preto_make_b_a_prova_dagua_o_boticario_783_1_e8c9b2a4b6f10e95ca8621ac36e39e54.jpg"
+};
+PRODUCTS.forEach((product) => {
+  if (FINAL_EYE_PENCIL_FIX[product.id]) {
+    product.image = FINAL_EYE_PENCIL_FIX[product.id];
+    product.code = "27858";
+  }
+});

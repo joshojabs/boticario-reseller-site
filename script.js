@@ -323,7 +323,7 @@ function createHeroSlides() {
 
   return PRODUCTS
     .filter(product => product.image)
-    .slice(0,5);
+    .slice(0, 5);
 
 }
 
@@ -344,6 +344,10 @@ let heroTimer = null;
 const state = {
 
   language: "pt",
+
+  theme:
+    localStorage.getItem("boti-theme")
+    || "light",
 
   page: "home",
 
@@ -426,6 +430,89 @@ function saveFavourites() {
 
 
 // ======================================================
+// THEME
+// ======================================================
+
+function applyTheme() {
+
+  const dark =
+    state.theme === "dark";
+
+
+  document.documentElement.setAttribute(
+    "data-theme",
+    state.theme
+  );
+
+
+  const button =
+    document.getElementById(
+      "themeButton"
+    );
+
+
+  if (!button) {
+    return;
+  }
+
+
+  button.textContent =
+    dark ? "☀" : "☾";
+
+
+  button.setAttribute(
+    "aria-label",
+
+    dark
+      ? (
+          state.language === "pt"
+            ? "Ativar modo claro"
+            : "Enable light mode"
+        )
+      : (
+          state.language === "pt"
+            ? "Ativar modo escuro"
+            : "Enable dark mode"
+        )
+  );
+
+
+  button.title =
+    dark
+      ? (
+          state.language === "pt"
+            ? "Modo claro"
+            : "Light mode"
+        )
+      : (
+          state.language === "pt"
+            ? "Modo escuro"
+            : "Dark mode"
+        );
+
+}
+
+
+function toggleTheme() {
+
+  state.theme =
+    state.theme === "dark"
+      ? "light"
+      : "dark";
+
+
+  localStorage.setItem(
+    "boti-theme",
+    state.theme
+  );
+
+
+  applyTheme();
+
+}
+
+
+// ======================================================
 // HERO
 // ======================================================
 
@@ -445,7 +532,7 @@ function renderHeroDots() {
   holder.innerHTML =
     HERO_SLIDES
       .map(
-        (_,index) => `
+        (_, index) => `
 
           <button
             class="
@@ -1285,7 +1372,7 @@ function renderHomeProducts() {
 
   holder.innerHTML =
     PRODUCTS
-      .slice(0,8)
+      .slice(0, 8)
       .map(productCard)
       .join("");
 
@@ -1703,7 +1790,7 @@ function buildWhatsappMessage(ids) {
   const list =
     products
       .map(
-        (product,index) =>
+        (product, index) =>
 
           `${index + 1}. ${productName(product)} — ${productType(product)}${product.size ? `, ${product.size}` : ""}`
 
@@ -1852,6 +1939,9 @@ function applyLanguage() {
 
   }
 
+
+  applyTheme();
+
 }
 
 
@@ -1862,6 +1952,9 @@ function applyLanguage() {
 document.addEventListener(
   "DOMContentLoaded",
   () => {
+
+
+    applyTheme();
 
 
     document
@@ -1887,7 +1980,7 @@ document.addEventListener(
     ).onclick =
       openDrawer;
 
-      
+
     document.getElementById(
       "brandHome"
     ).onclick =
@@ -1897,10 +1990,17 @@ document.addEventListener(
 
       };
 
+
     document.getElementById(
       "closeDrawer"
     ).onclick =
       closeDrawer;
+
+
+    document.getElementById(
+      "themeButton"
+    ).onclick =
+      toggleTheme;
 
 
     document.getElementById(
